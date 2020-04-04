@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Grixis Ninja Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ash Barrens" number="3"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Changeling Outcast" number="3"/>
+    <card name="Counterspell" number="2"/>
+    <card name="Dack Fayden" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Dispel" number="2"/>
+    <card name="Drown in the Loch" number="2"/>
+    <card name="Final Fortune" number="1"/>
+    <card name="Gush" number="1"/>
+    <card name="Ingenious Infiltrator" number="3"/>
+    <card name="Inquisition of Kozilek" number="2"/>
+    <card name="Island" number="3"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Mikokoro, Center of the Sea" number="2"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Notion Thief" number="2"/>
+    <card name="Ornithopter" number="3"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Preordain" number="3"/>
+    <card name="Pyroblast" number="2"/>
+    <card name="Red Elemental Blast" number="2"/>
+    <card name="Steam Vents" number="3"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Treasure Cruise" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Yuriko, the Tiger's Shadow" number="3"/>
+  </zone>
+</cockatrice_deck>

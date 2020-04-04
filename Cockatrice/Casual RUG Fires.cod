@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual RUG Fires</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abundance" number="2"/>
+    <card name="Aetherling" number="3"/>
+    <card name="Canker Abomination" number="3"/>
+    <card name="Concentrate" number="2"/>
+    <card name="Faerie Formation" number="3"/>
+    <card name="Fires of Invention" number="3"/>
+    <card name="Forest" number="2"/>
+    <card name="Gatecreeper Vine" number="3"/>
+    <card name="Gates Ablaze" number="2"/>
+    <card name="Gateway Plaza" number="4"/>
+    <card name="Gruul Guildgate" number="4"/>
+    <card name="Guild Summit" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Izzet Guildgate" number="4"/>
+    <card name="Mountain" number="2"/>
+    <card name="Negate" number="3"/>
+    <card name="Shimmer of Possibility" number="4"/>
+    <card name="Shock" number="3"/>
+    <card name="Simic Guildgate" number="4"/>
+    <card name="Steel Hellkite" number="2"/>
+    <card name="Sylvan Library" number="2"/>
+    <card name="Thragtusk" number="1"/>
+  </zone>
+</cockatrice_deck>

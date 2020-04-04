@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Reclamation Gate Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="2"/>
+    <card name="Ash Barrens" number="4"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Dimir Guildgate" number="4"/>
+    <card name="Drown in the Loch" number="2"/>
+    <card name="Gatecreeper Vine" number="2"/>
+    <card name="Gateway Plaza" number="2"/>
+    <card name="Growth Spiral" number="3"/>
+    <card name="Guild Summit" number="2"/>
+    <card name="Impulse" number="4"/>
+    <card name="Island" number="4"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Lochmere Serpent" number="1"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mox Diamond" number="3"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Mystical Teachings" number="2"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Rampaging Baloths" number="2"/>
+    <card name="Search for Azcanta" number="1"/>
+    <card name="Simic Guildgate" number="4"/>
+    <card name="Terror" number="2"/>
+    <card name="Torrential Gearhulk" number="1"/>
+    <card name="Tragic Lesson" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+  </zone>
+</cockatrice_deck>
