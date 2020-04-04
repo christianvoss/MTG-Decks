@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Grixis Swans Possession</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Bloodstained Mire" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Chain of Plasma" number="2"/>
+    <card name="Conflagrate" number="1"/>
+    <card name="Cryptic Command" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Drown in the Loch" number="2"/>
+    <card name="Fling" number="1"/>
+    <card name="Flooded Strand" number="1"/>
+    <card name="Island" number="4"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Lightning Bolt" number="4"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mikokoro, Center of the Sea" number="1"/>
+    <card name="Mystic Sanctuary" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Preordain" number="4"/>
+    <card name="Psychatog" number="2"/>
+    <card name="Psychic Possession" number="2"/>
+    <card name="Scalding Tarn" number="1"/>
+    <card name="Starstorm" number="2"/>
+    <card name="Steam Vents" number="3"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Swans of Bryn Argoll" number="3"/>
+    <card name="Terminate" number="1"/>
+    <card name="Thief of Sanity" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Watery Grave" number="1"/>
+  </zone>
+</cockatrice_deck>

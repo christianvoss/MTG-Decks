@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Pseudo Dredge</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Arcanis the Omnipotent" number="1"/>
+    <card name="Basking Rootwalla" number="4"/>
+    <card name="Bridge from Below" number="3"/>
+    <card name="Buried Alive" number="2"/>
+    <card name="Cauldron Familiar" number="4"/>
+    <card name="Dawn of the Dead" number="3"/>
+    <card name="Dismal Backwater" number="2"/>
+    <card name="Etrata, the Silencer" number="1"/>
+    <card name="Evolving Wilds" number="4"/>
+    <card name="Forbid" number="2"/>
+    <card name="Forest" number="1"/>
+    <card name="It That Betrays" number="1"/>
+    <card name="Jungle Hollow" number="2"/>
+    <card name="Leyline of the Void" number="2"/>
+    <card name="Moldervine Reclamation" number="2"/>
+    <card name="Mulldrifter" number="2"/>
+    <card name="Nicol Bolas" number="1"/>
+    <card name="Penumbra Wurm" number="1"/>
+    <card name="Shriekmaw" number="3"/>
+    <card name="Swamp" number="2"/>
+    <card name="Swamp" number="1"/>
+    <card name="Tainted Isle" number="4"/>
+    <card name="Tainted Wood" number="4"/>
+    <card name="Trail of Crumbs" number="2"/>
+    <card name="Witch's Oven" number="4"/>
+    <card name="Zombie Infestation" number="2"/>
+  </zone>
+</cockatrice_deck>
