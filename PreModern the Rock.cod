@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>PreModern the Rock</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Cabal Therapy"/>
+        <card number="3" name="Vendetta"/>
+        <card number="3" name="Duress"/>
+        <card number="4" name="Birds of Paradise"/>
+        <card number="4" name="Wall of Blossoms"/>
+        <card number="4" name="Ravenous Baloth"/>
+        <card number="2" name="Llanowar Elves"/>
+        <card number="2" name="Deranged Hermit"/>
+        <card number="3" name="Yavimaya Elder"/>
+        <card number="1" name="Phyrexian Plaguelord"/>
+        <card number="4" name="Pernicious Deed"/>
+        <card number="2" name="Recurring Nightmare"/>
+        <card number="4" name="Llanowar Wastes"/>
+        <card number="7" name="Swamp"/>
+        <card number="1" name="Tainted Wood"/>
+        <card number="1" name="Dust Bowl"/>
+        <card number="4" name="Treetop Village"/>
+        <card number="7" name="Forest"/>
+    </zone>
+</cockatrice_deck>

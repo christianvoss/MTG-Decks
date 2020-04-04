@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Grixis Thieves</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Braingeyser"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="2" name="Compulsive Research"/>
+        <card number="2" name="Dack Fayden"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="3" name="Flooded Strand"/>
+        <card number="2" name="Flusterstorm"/>
+        <card number="1" name="Helm of Obedience"/>
+        <card number="1" name="Inkwell Leviathan"/>
+        <card number="3" name="Island"/>
+        <card number="2" name="Jace, the Mind Sculptor"/>
+        <card number="1" name="Leyline of the Void"/>
+        <card number="4" name="Mana Drain"/>
+        <card number="2" name="Mikokoro, Center of the Sea"/>
+        <card number="1" name="Mind Twist"/>
+        <card number="3" name="Mox Diamond"/>
+        <card number="2" name="Notion Thief"/>
+        <card number="4" name="Polluted Delta"/>
+        <card number="4" name="Preordain"/>
+        <card number="2" name="Red Elemental Blast"/>
+        <card number="2" name="Sensei's Divining Top"/>
+        <card number="2" name="Sentinel Tower"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="2" name="Spell Pierce"/>
+        <card number="3" name="Steam Vents"/>
+        <card number="1" name="Tinker"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="3" name="Watery Grave"/>
+    </zone>
+</cockatrice_deck>

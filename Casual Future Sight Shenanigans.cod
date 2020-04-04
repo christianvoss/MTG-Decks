@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Casual Future Sight Shenanigans</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Akroma, Angel of Wrath"/>
+        <card number="1" name="Brain Freeze"/>
+        <card number="4" name="Brainstorm"/>
+        <card number="3" name="Conundrum Sphinx"/>
+        <card number="2" name="Counterbalance"/>
+        <card number="2" name="Enlightened Tutor"/>
+        <card number="1" name="Entreat the Angels"/>
+        <card number="3" name="Flood Plain"/>
+        <card number="4" name="Flooded Strand"/>
+        <card number="2" name="Future Sight"/>
+        <card number="2" name="Hallowed Fountain"/>
+        <card number="2" name="Helm of Awakening"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Mana Drain"/>
+        <card number="1" name="Memory Lapse"/>
+        <card number="2" name="Negate"/>
+        <card number="2" name="Oracle's Vault"/>
+        <card number="2" name="Plains"/>
+        <card number="4" name="Prairie Stream"/>
+        <card number="4" name="Predict"/>
+        <card number="3" name="Sensei's Divining Top"/>
+        <card number="3" name="Swords to Plowshares"/>
+        <card number="2" name="Terminus"/>
+        <card number="2" name="Unexpectedly Absent"/>
+    </zone>
+</cockatrice_deck>
