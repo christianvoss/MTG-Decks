@@ -18,7 +18,7 @@ def main():
     args = parser.parse_args()
     ##-----------------------------------------------------------------------------------------------------
 
-    infile = open('/drives/k/Forge-Data/userdata/decks/constructed/Casual Grixis Swans Possession.dck')
+    infile = open(args.forge)
 
     read_deck = []
     for line in infile:
@@ -40,17 +40,13 @@ def main():
 
         main_board.append( {'number' : number, 'name' : name_str} )
 
-    print(main_board)
-
     filename = 'Casual Grixis Swans Possession.cod'
 
     root = xml.Element("cockatrice_deck")
     deck_name = xml.SubElement(root,"deckname")
     deck_name.text = deckname
-    # root.append(deck_name)
     comments = xml.SubElement(root,"comments")
     comments.text = "Converted from Forge"
-    # root.append(comments)
     zone = xml.SubElement(root,"zone")
     zone.set('name','main')
     for card in main_board :
@@ -58,9 +54,7 @@ def main():
         card_entry.set('number', card['number'])
         card_entry.set('name', card['name'])
 
-    print(prettify(root))
-
-    output_file = open( 'Casual Grixis Swans Possession.cod', 'w' )
+    output_file = open( args.cockatrice, 'w' )
     output_file.write( prettify(root))
     output_file.close()
 
