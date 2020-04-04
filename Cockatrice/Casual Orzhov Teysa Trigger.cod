@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Orzhov Teysa Trigger</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Cabal Therapist" number="2"/>
+    <card name="Carrier Thrall" number="2"/>
+    <card name="Demon of Catastrophes" number="1"/>
+    <card name="Demonlord of Ashmouth" number="1"/>
+    <card name="Doomed Dissenter" number="2"/>
+    <card name="Doomed Traveler" number="2"/>
+    <card name="Enlightened Tutor" number="3"/>
+    <card name="Gods Willing" number="3"/>
+    <card name="Grave Pact" number="1"/>
+    <card name="Grim Haruspex" number="1"/>
+    <card name="Hunted Witness" number="3"/>
+    <card name="Intangible Virtue" number="1"/>
+    <card name="Orzhov Basilica" number="2"/>
+    <card name="Orzhov Enforcer" number="1"/>
+    <card name="Orzhov Guildgate" number="4"/>
+    <card name="Pawn of Ulamog" number="3"/>
+    <card name="Phyrexian Processor" number="1"/>
+    <card name="Plains" number="3"/>
+    <card name="Plains" number="1"/>
+    <card name="Plains" number="1"/>
+    <card name="Reassembling Skeleton" number="2"/>
+    <card name="Skullclamp" number="2"/>
+    <card name="Swamp" number="3"/>
+    <card name="Swamp" number="2"/>
+    <card name="Tainted Field" number="4"/>
+    <card name="Teysa Karlov" number="2"/>
+    <card name="Utter End" number="2"/>
+    <card name="Xathrid Necromancer" number="2"/>
+    <card name="Zulaport Cutthroat" number="3"/>
+  </zone>
+</cockatrice_deck>
