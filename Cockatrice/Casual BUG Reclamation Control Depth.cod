@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Reclamation Control Depth</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="2"/>
+    <card name="Bad River" number="4"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Cryptic Command" number="2"/>
+    <card name="Dark Depths" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Growth Spiral" number="3"/>
+    <card name="Hour of Promise" number="1"/>
+    <card name="Impulse" number="4"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Languish" number="1"/>
+    <card name="Lochmere Serpent" number="2"/>
+    <card name="Lumbering Falls" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Mystical Teachings" number="2"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Rampaging Baloths" number="2"/>
+    <card name="Search for Azcanta" number="1"/>
+    <card name="Terror" number="2"/>
+    <card name="Thespian's Stage" number="1"/>
+    <card name="Torrential Gearhulk" number="2"/>
+    <card name="Treasure Cruise" number="1"/>
+    <card name="Underworld Connections" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Watery Grave" number="3"/>
+    <card name="Wilderness Reclamation" number="2"/>
+  </zone>
+</cockatrice_deck>
