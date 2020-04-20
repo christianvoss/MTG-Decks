@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Jeskai Gate Fires</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Aetherling" number="2"/>
+    <card name="Arcane Denial" number="2"/>
+    <card name="Azorius Guildgate" number="4"/>
+    <card name="Concentrate" number="2"/>
+    <card name="Counterbalance" number="3"/>
+    <card name="Enlightened Tutor" number="2"/>
+    <card name="Evolving Wilds" number="3"/>
+    <card name="Faerie Formation" number="2"/>
+    <card name="Fires of Invention" number="2"/>
+    <card name="Gates Ablaze" number="2"/>
+    <card name="Gateway Plaza" number="4"/>
+    <card name="Guild Summit" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Izzet Guildgate" number="4"/>
+    <card name="Jace, Architect of Thought" number="2"/>
+    <card name="Lightning Angel" number="2"/>
+    <card name="Medomai the Ageless" number="1"/>
+    <card name="Mountain" number="2"/>
+    <card name="Negate" number="2"/>
+    <card name="Niv-Mizzet, Parun" number="2"/>
+    <card name="Omen of the Sea" number="2"/>
+    <card name="Plains" number="2"/>
+    <card name="Red Elemental Blast" number="2"/>
+    <card name="Sensei's Divining Top" number="3"/>
+    <card name="Swords to Plowshares" number="2"/>
+    <card name="Tidings" number="2"/>
+  </zone>
+</cockatrice_deck>

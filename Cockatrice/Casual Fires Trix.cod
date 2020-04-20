@@ -7,30 +7,30 @@
     <card name="Aetherling" number="3"/>
     <card name="Concentrate" number="2"/>
     <card name="Donate" number="3"/>
-<<<<<<< HEAD
+    <card name="&lt;&lt;&lt;&lt;&lt;&lt; HEAD" number=""/>
     <card name="Evolving Wilds" number="3"/>
     <card name="Faerie Formation" number="3"/>
     <card name="Fires of Invention" number="3"/>
     <card name="Forest" number="1"/>
-=======
+    <card name="======" number=""/>
     <card name="Faerie Formation" number="3"/>
     <card name="Fires of Invention" number="3"/>
     <card name="Forest" number="2"/>
->>>>>>> 8b12da788c1e8c03b741c50f3ebdb502b9c53b39
+    <card name="&gt;&gt;&gt;&gt;&gt;&gt; bdacecbcfebdbbcb" number="812788180374150350295339"/>
     <card name="Gates Ablaze" number="2"/>
     <card name="Gateway Plaza" number="3"/>
     <card name="Gruul Guildgate" number="4"/>
     <card name="Guild Summit" number="2"/>
     <card name="Illusions of Grandeur" number="3"/>
-<<<<<<< HEAD
+    <card name="&lt;&lt;&lt;&lt;&lt;&lt; HEAD" number=""/>
     <card name="Island" number="1"/>
     <card name="Izzet Guildgate" number="4"/>
     <card name="Mountain" number="1"/>
-=======
+    <card name="======" number=""/>
     <card name="Island" number="2"/>
     <card name="Izzet Guildgate" number="4"/>
     <card name="Mountain" number="2"/>
->>>>>>> 8b12da788c1e8c03b741c50f3ebdb502b9c53b39
+    <card name="&gt;&gt;&gt;&gt;&gt;&gt; bdacecbcfebdbbcb" number="812788180374150350295339"/>
     <card name="Negate" number="2"/>
     <card name="Ponder" number="4"/>
     <card name="Shimmer of Possibility" number="3"/>
