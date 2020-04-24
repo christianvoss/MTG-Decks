@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Reclamation Depth</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="2"/>
+    <card name="Abundance" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Dark Depths" number="1"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Drown in the Loch" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Helm of Obedience" number="1"/>
+    <card name="Hour of Promise" number="1"/>
+    <card name="Impulse" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Leyline of Anticipation" number="1"/>
+    <card name="Leyline of the Void" number="1"/>
+    <card name="Lochmere Serpent" number="2"/>
+    <card name="Maelstrom Pulse" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mystic Sanctuary" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Preordain" number="3"/>
+    <card name="Regrowth" number="2"/>
+    <card name="Seat of the Synod" number="2"/>
+    <card name="Spell Pierce" number="2"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Sylvan Library" number="2"/>
+    <card name="Thespian's Stage" number="1"/>
+    <card name="Tinker" number="1"/>
+    <card name="Torrential Gearhulk" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Yawgmoth's Will" number="1"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>
