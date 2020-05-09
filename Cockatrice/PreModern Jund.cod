@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Jund</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abundance" number="2"/>
+    <card name="Acorn Harvest" number="2"/>
+    <card name="Addle" number="2"/>
+    <card name="Birds of Paradise" number="3"/>
+    <card name="Bloodstained Mire" number="3"/>
+    <card name="Cabal Therapy" number="4"/>
+    <card name="Call of the Herd" number="2"/>
+    <card name="Chatter of the Squirrel" number="2"/>
+    <card name="Darigaaz's Caldera" number="3"/>
+    <card name="Duress" number="3"/>
+    <card name="Flametongue Kavu" number="3"/>
+    <card name="Forest" number="1"/>
+    <card name="Forest" number="1"/>
+    <card name="Forest" number="1"/>
+    <card name="Hypnotic Specter" number="3"/>
+    <card name="Llanowar Wastes" number="2"/>
+    <card name="Mountain" number="1"/>
+    <card name="Shivan Wurm" number="2"/>
+    <card name="Spiritmonger" number="2"/>
+    <card name="Swamp" number="1"/>
+    <card name="Swamp" number="2"/>
+    <card name="Sylvan Library" number="2"/>
+    <card name="Tainted Wood" number="2"/>
+    <card name="Terminate" number="3"/>
+    <card name="Wall of Blossoms" number="2"/>
+    <card name="Wall of Roots" number="2"/>
+    <card name="Wooded Foothills" number="4"/>
+  </zone>
+</cockatrice_deck>
