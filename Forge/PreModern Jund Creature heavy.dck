@@ -1,0 +1,33 @@
+[metadata]
+Name=PreModern Jund (Creature heavy)
+[Main]
+2 Addle|INV
+3 Birds of Paradise|4ED
+3 Bloodstained Mire|ONS
+2 Call of the Herd|ODY
+3 Darigaaz's Caldera|PLS
+3 Duress|USG
+3 Flametongue Kavu|PLS
+1 Forest|POR|1
+1 Forest|POR|3
+1 Forest|POR|4
+3 Hypnotic Specter|3ED
+3 Lightning Bolt|4ED
+2 Llanowar Wastes|APC
+1 Mountain|POR|1
+2 Phyrexian Arena|APC
+2 Phyrexian Scuta|PLS
+2 Ravenous Baloth|ONS
+2 Shivan Wurm|PLS
+3 Skyshroud Elite|EXO
+2 Spiritmonger|APC
+1 Swamp|POR|1
+2 Swamp|POR|4
+2 Tainted Wood|TOR
+3 Terminate|PLS
+2 Wall of Blossoms|STH
+2 Wall of Roots|MIR
+4 Wooded Foothills|ONS
+[Sideboard]
+2 Acorn Harvest|TOR
+4 Infest|ONS

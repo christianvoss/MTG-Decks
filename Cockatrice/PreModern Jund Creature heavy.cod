@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Jund (Creature heavy)</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Addle" number="2"/>
+    <card name="Birds of Paradise" number="3"/>
+    <card name="Bloodstained Mire" number="3"/>
+    <card name="Call of the Herd" number="2"/>
+    <card name="Darigaaz's Caldera" number="3"/>
+    <card name="Duress" number="3"/>
+    <card name="Flametongue Kavu" number="3"/>
+    <card name="Forest" number="1"/>
+    <card name="Forest" number="1"/>
+    <card name="Forest" number="1"/>
+    <card name="Hypnotic Specter" number="3"/>
+    <card name="Lightning Bolt" number="3"/>
+    <card name="Llanowar Wastes" number="2"/>
+    <card name="Mountain" number="1"/>
+    <card name="Phyrexian Arena" number="2"/>
+    <card name="Phyrexian Scuta" number="2"/>
+    <card name="Ravenous Baloth" number="2"/>
+    <card name="Shivan Wurm" number="2"/>
+    <card name="Skyshroud Elite" number="3"/>
+    <card name="Spiritmonger" number="2"/>
+    <card name="Swamp" number="1"/>
+    <card name="Swamp" number="2"/>
+    <card name="Tainted Wood" number="2"/>
+    <card name="Terminate" number="3"/>
+    <card name="Wall of Blossoms" number="2"/>
+    <card name="Wall of Roots" number="2"/>
+    <card name="Wooded Foothills" number="4"/>
+  </zone>
+</cockatrice_deck>
