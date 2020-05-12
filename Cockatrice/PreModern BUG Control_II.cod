@@ -4,17 +4,19 @@
   <comments>Converted from Forge</comments>
   <zone name="main">
     <card name="Abundance" number="1"/>
-    <card name="Accumulated Knowledge" number="4"/>
     <card name="Counterspell" number="4"/>
+    <card name="Exploration" number="2"/>
     <card name="Gaea's Blessing" number="2"/>
+    <card name="Ghastly Demise" number="2"/>
+    <card name="Gush" number="4"/>
     <card name="Impulse" number="4"/>
     <card name="Infest" number="2"/>
-    <card name="Island" number="3"/>
+    <card name="Island" number="5"/>
     <card name="Llanowar Wastes" number="2"/>
+    <card name="Palinchron" number="2"/>
     <card name="Phyrexian Arena" number="1"/>
     <card name="Polluted Delta" number="4"/>
     <card name="Prohibit" number="2"/>
-    <card name="Quicksilver Dragon" number="2"/>
     <card name="Rhystic Tutor" number="1"/>
     <card name="Salt Marsh" number="4"/>
     <card name="Seedborn Muse" number="2"/>
@@ -23,10 +25,8 @@
     <card name="Spiritmonger" number="2"/>
     <card name="Swamp" number="1"/>
     <card name="Sylvan Library" number="2"/>
-    <card name="Terror" number="2"/>
     <card name="Treetop Village" number="3"/>
-    <card name="Underground River" number="2"/>
-    <card name="Wall of Blossoms" number="4"/>
+    <card name="Wall of Blossoms" number="2"/>
     <card name="Yavimaya Coast" number="2"/>
   </zone>
 </cockatrice_deck>

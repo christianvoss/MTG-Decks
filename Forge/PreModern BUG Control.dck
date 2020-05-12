@@ -1,20 +1,20 @@
 [metadata]
 Name=PreModern BUG Control
+[Avatar]
+
 [Main]
 1 Abundance|USG
+4 Accumulated Knowledge|NMS
 4 Counterspell|TMP
-2 Exploration|USG
 2 Gaea's Blessing|WTH
-2 Ghastly Demise|ODY
-4 Gush|MMQ
 4 Impulse|VIS
 2 Infest|ONS
-5 Island|ODY|3
+3 Island|ODY|3
 2 Llanowar Wastes|APC
-2 Palinchron|ULG
 1 Phyrexian Arena|APC
 4 Polluted Delta|ONS
 2 Prohibit|INV
+2 Quicksilver Dragon|ONS
 1 Rhystic Tutor|PCY
 4 Salt Marsh|INV
 2 Seedborn Muse|LGN
@@ -23,8 +23,30 @@ Name=PreModern BUG Control
 2 Spiritmonger|APC
 1 Swamp|ODY|3
 2 Sylvan Library|4ED
+2 Terror|4ED
 3 Treetop Village|ULG
-2 Wall of Blossoms|STH
+2 Underground River|ICE
+4 Wall of Blossoms|STH
 2 Yavimaya Coast|APC
 [Sideboard]
+1 Argothian Wurm|USG
+1 Endangered Armodon|STH
+1 Exploration|USG
+1 Fallow Wurm|WTH
+1 Forgotten Ancient|SCG
+1 Ghastly Demise|ODY
+1 Gush|MMQ
+1 Jade Leech|INV
+1 Krosan Beast|ODY
+1 Krosan Drover|SCG
+1 Palinchron|ULG
 1 Pernicious Deed|APC
+1 Phyrexian Scuta|PLS
+1 Quicksilver Dragon|ONS
+1 Waterspout Djinn|VIS
+[Planes]
+
+[Schemes]
+
+[Conspiracy]
+
