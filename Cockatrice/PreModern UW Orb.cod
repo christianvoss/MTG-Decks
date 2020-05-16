@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern UW Orb</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Absorb" number="2"/>
+    <card name="Coastal Tower" number="4"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Crystal Vein" number="2"/>
+    <card name="Enlightened Tutor" number="4"/>
+    <card name="Faerie Conclave" number="2"/>
+    <card name="Howling Mine" number="3"/>
+    <card name="Icy Manipulator" number="3"/>
+    <card name="Impulse" number="4"/>
+    <card name="Island" number="6"/>
+    <card name="Kismet" number="1"/>
+    <card name="Marble Diamond" number="1"/>
+    <card name="Mishra's Factory" number="4"/>
+    <card name="Mox Diamond" number="3"/>
+    <card name="Palinchron" number="2"/>
+    <card name="Pendrell Mists" number="1"/>
+    <card name="Plains" number="1"/>
+    <card name="Plains" number="2"/>
+    <card name="Plains" number="1"/>
+    <card name="Sky Diamond" number="2"/>
+    <card name="Swords to Plowshares" number="3"/>
+    <card name="Winter Orb" number="3"/>
+    <card name="Wrath of God" number="2"/>
+  </zone>
+</cockatrice_deck>

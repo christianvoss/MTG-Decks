@@ -1,34 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<cockatrice_deck version="1">
-    <deckname>PreModern Grixis Dragon Arch</deckname>
-    <comments></comments>
-    <zone name="main">
-        <card number="4" name="Accumulated Knowledge"/>
-        <card number="1" name="Bladewing the Risen"/>
-        <card number="4" name="Counterspell"/>
-        <card number="3" name="Crosis's Catacombs"/>
-        <card number="1" name="Crosis, the Purger"/>
-        <card number="1" name="Darigaaz, the Igniter"/>
-        <card number="2" name="Dragon Arch"/>
-        <card number="1" name="Dromar, the Banisher"/>
-        <card number="2" name="Fact or Fiction"/>
-        <card number="4" name="Impulse"/>
-        <card number="2" name="Infest"/>
-        <card number="4" name="Island"/>
-        <card number="1" name="Mountain"/>
-        <card number="2" name="Mox Diamond"/>
-        <card number="1" name="Nicol Bolas"/>
-        <card number="3" name="Phyrexian Walker"/>
-        <card number="4" name="Polluted Delta"/>
-        <card number="1" name="Rewind"/>
-        <card number="4" name="Salt Marsh"/>
-        <card number="2" name="Smother"/>
-        <card number="2" name="Suffocating Blast"/>
-        <card number="1" name="Swamp"/>
-        <card number="1" name="Swirling Sandstorm"/>
-        <card number="2" name="Tainted Isle"/>
-        <card number="2" name="Tainted Peak"/>
-        <card number="3" name="Terminate"/>
-        <card number="2" name="Tinker"/>
-    </zone>
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Grixis Dragon Arch</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Accumulated Knowledge" number="4"/>
+    <card name="Bladewing the Risen" number="1"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Crosis's Catacombs" number="3"/>
+    <card name="Crosis, the Purger" number="1"/>
+    <card name="Darigaaz, the Igniter" number="1"/>
+    <card name="Dragon Arch" number="2"/>
+    <card name="Dromar, the Banisher" number="1"/>
+    <card name="Gravestorm" number="3"/>
+    <card name="Impulse" number="4"/>
+    <card name="Infest" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Mountain" number="1"/>
+    <card name="Mox Diamond" number="2"/>
+    <card name="Nicol Bolas" number="1"/>
+    <card name="Phyrexian Walker" number="3"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Pyroblast" number="1"/>
+    <card name="Salt Marsh" number="4"/>
+    <card name="Suffocating Blast" number="2"/>
+    <card name="Swamp" number="2"/>
+    <card name="Swirling Sandstorm" number="1"/>
+    <card name="Tainted Isle" number="2"/>
+    <card name="Tainted Peak" number="2"/>
+    <card name="Terminate" number="3"/>
+    <card name="Tinker" number="2"/>
+    <card name="Web of Inertia" number="2"/>
+  </zone>
 </cockatrice_deck>

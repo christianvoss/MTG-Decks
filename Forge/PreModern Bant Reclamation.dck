@@ -1,0 +1,33 @@
+[metadata]
+Name=PreModern Bant Reclamation
+[Main]
+2 Absorb|INV
+1 Abundance|USG
+4 Accumulated Knowledge|NMS
+3 Coastal Tower|INV
+4 Counterspell|TMP
+2 Creeping Mold|VIS
+1 Enlightened Tutor|MIR
+3 Exalted Angel|ONS
+2 Fact or Fiction|INV
+4 Flooded Strand|ONS
+2 Forest|ODY|2
+1 Gaea's Blessing|WTH
+3 Impulse|VIS
+2 Island|ODY|3
+2 Mystic Enforcer|ODY
+1 Nantuko Monastery|JUD
+1 Plains|ODY|1
+1 Plains|ODY|2
+1 Relearn|WTH
+2 Seedborn Muse|LGN
+2 Sunscape Familiar|PLS
+3 Swords to Plowshares|4ED
+2 Sylvan Library|4ED
+2 Treva's Ruins|PLS
+3 Wall of Blossoms|STH
+2 Windswept Heath|ONS
+2 Wrath of God|4ED
+2 Yavimaya Coast|APC
+[Sideboard]
+4 Urza's Blueprints|ULG

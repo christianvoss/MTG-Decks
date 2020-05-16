@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Naya Zoo</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Battlefield Forge" number="2"/>
+    <card name="Brushland" number="2"/>
+    <card name="City of Brass" number="4"/>
+    <card name="Dwarven Miner" number="2"/>
+    <card name="Gaea's Blessing" number="2"/>
+    <card name="Gemstone Mine" number="4"/>
+    <card name="Incinerate" number="4"/>
+    <card name="Jackal Pup" number="3"/>
+    <card name="Karplusan Forest" number="2"/>
+    <card name="Lava Blister" number="2"/>
+    <card name="Lightning Bolt" number="4"/>
+    <card name="Molten Influence" number="2"/>
+    <card name="Pyroblast" number="1"/>
+    <card name="Rancor" number="3"/>
+    <card name="Rith's Grove" number="3"/>
+    <card name="Savannah Lions" number="4"/>
+    <card name="Skyshroud Elite" number="3"/>
+    <card name="Soltari Champion" number="2"/>
+    <card name="Soltari Monk" number="2"/>
+    <card name="Soltari Priest" number="2"/>
+    <card name="Stone Rain" number="2"/>
+    <card name="Swords to Plowshares" number="2"/>
+    <card name="Thran Quarry" number="3"/>
+  </zone>
+</cockatrice_deck>

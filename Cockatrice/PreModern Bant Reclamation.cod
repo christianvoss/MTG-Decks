@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Bant Reclamation</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Absorb" number="2"/>
+    <card name="Abundance" number="1"/>
+    <card name="Accumulated Knowledge" number="4"/>
+    <card name="Coastal Tower" number="3"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Creeping Mold" number="2"/>
+    <card name="Enlightened Tutor" number="1"/>
+    <card name="Exalted Angel" number="3"/>
+    <card name="Fact or Fiction" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Forest" number="2"/>
+    <card name="Gaea's Blessing" number="1"/>
+    <card name="Impulse" number="3"/>
+    <card name="Island" number="2"/>
+    <card name="Mystic Enforcer" number="2"/>
+    <card name="Nantuko Monastery" number="1"/>
+    <card name="Plains" number="1"/>
+    <card name="Plains" number="1"/>
+    <card name="Relearn" number="1"/>
+    <card name="Seedborn Muse" number="2"/>
+    <card name="Sunscape Familiar" number="2"/>
+    <card name="Swords to Plowshares" number="3"/>
+    <card name="Sylvan Library" number="2"/>
+    <card name="Treva's Ruins" number="2"/>
+    <card name="Wall of Blossoms" number="3"/>
+    <card name="Windswept Heath" number="2"/>
+    <card name="Wrath of God" number="2"/>
+    <card name="Yavimaya Coast" number="2"/>
+  </zone>
+</cockatrice_deck>
