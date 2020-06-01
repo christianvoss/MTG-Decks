@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Crosis Doomsday</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Bloodstained Mire" number="1"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Crosis's Catacombs" number="3"/>
+    <card name="Dark Ritual" number="2"/>
+    <card name="Doomsday" number="2"/>
+    <card name="Draco" number="1"/>
+    <card name="Erratic Explosion" number="2"/>
+    <card name="Exploration" number="2"/>
+    <card name="Gemstone Mine" number="3"/>
+    <card name="Gush" number="4"/>
+    <card name="Impulse" number="2"/>
+    <card name="Island" number="5"/>
+    <card name="Lat-Nam's Legacy" number="2"/>
+    <card name="Mana Cylix" number="2"/>
+    <card name="Mountain" number="2"/>
+    <card name="Mox Diamond" number="3"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Portent" number="2"/>
+    <card name="Prohibit" number="2"/>
+    <card name="Pyroblast" number="2"/>
+    <card name="Pyroclasm" number="2"/>
+    <card name="Steel Golem" number="2"/>
+    <card name="Swamp" number="2"/>
+    <card name="Swirling Sandstorm" number="1"/>
+    <card name="Terminate" number="3"/>
+  </zone>
+</cockatrice_deck>

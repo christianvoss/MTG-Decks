@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Leas Wall of Walls rev</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Angelic Wall" number="4"/>
+    <card name="Azorius Guildgate" number="4"/>
+    <card name="Boros Guildgate" number="4"/>
+    <card name="Deep Analysis" number="4"/>
+    <card name="Doorkeeper" number="3"/>
+    <card name="Fog Bank" number="1"/>
+    <card name="Gates Ablaze" number="2"/>
+    <card name="Gateway Plaza" number="3"/>
+    <card name="Guild Summit" number="2"/>
+    <card name="High Alert" number="2"/>
+    <card name="Island" number="1"/>
+    <card name="Izzet Guildgate" number="4"/>
+    <card name="Mnemonic Wall" number="2"/>
+    <card name="Mountain" number="1"/>
+    <card name="Negate" number="3"/>
+    <card name="Perimeter Captain" number="3"/>
+    <card name="Plains" number="2"/>
+    <card name="Plains" number="1"/>
+    <card name="Psychic Membrane" number="1"/>
+    <card name="Quiet Speculation" number="2"/>
+    <card name="Vent Sentinel" number="3"/>
+    <card name="Wall of Frost" number="1"/>
+    <card name="Wall of Hope" number="4"/>
+    <card name="Wall of Tears" number="3"/>
+  </zone>
+</cockatrice_deck>

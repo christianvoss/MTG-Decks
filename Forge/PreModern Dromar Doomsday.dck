@@ -1,0 +1,33 @@
+[metadata]
+Name=PreModern Dromar Doomsday
+[Main]
+2 Absorb|INV
+4 Accumulated Knowledge|NMS
+2 Coastal Tower|INV
+4 Counterspell|TMP
+3 Dark Ritual|ICE
+2 Doomsday|WTH
+3 Dromar's Cavern|PLS
+1 Ebony Charm|MIR
+2 Enlightened Tutor|MIR
+2 Exalted Angel|ONS
+3 Flooded Strand|ONS
+1 Future Sight|ONS
+2 Gerrard's Verdict|APC
+3 Impulse|VIS
+3 Island|ODY|3
+1 Ivory Tower|4ED
+2 Phyrexian Arena|APC
+2 Plains|ODY|4
+3 Polluted Delta|ONS
+1 Prohibit|INV
+2 Salt Marsh|INV
+2 Swamp|ODY|1
+3 Swords to Plowshares|4ED
+3 Vindicate|APC
+2 Wall of Hope|LGN
+2 Wrath of God|4ED
+[Sideboard]
+2 Land Tax|4ED
+3 Mox Diamond|STH
+2 Scroll Rack|TMP
