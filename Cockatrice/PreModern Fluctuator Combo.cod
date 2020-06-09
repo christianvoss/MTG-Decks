@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Fluctuator Combo</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Blasted Landscape" number="4"/>
+    <card name="Cloud of Faeries" number="4"/>
+    <card name="Disciple of Grace" number="4"/>
+    <card name="Disciple of Law" number="4"/>
+    <card name="Disciple of Malice" number="4"/>
+    <card name="Drain Life" number="1"/>
+    <card name="Drifting Meadow" number="4"/>
+    <card name="Dromar's Cavern" number="1"/>
+    <card name="Fluctuator" number="4"/>
+    <card name="Haunting Misery" number="1"/>
+    <card name="Keeneye Aven" number="4"/>
+    <card name="Lotus Petal" number="1"/>
+    <card name="Miscalculation" number="1"/>
+    <card name="Pendrell Drake" number="4"/>
+    <card name="Polluted Mire" number="4"/>
+    <card name="Remote Isle" number="4"/>
+    <card name="Sandbar Merfolk" number="4"/>
+    <card name="Shimmering Barrier" number="3"/>
+    <card name="Smoldering Crater" number="3"/>
+    <card name="Songs of the Damned" number="1"/>
+  </zone>
+</cockatrice_deck>

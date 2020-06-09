@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern RW Lands-Edge</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Earthquake" number="2"/>
+    <card name="Enduring Renewal" number="3"/>
+    <card name="Feldon's Cane" number="2"/>
+    <card name="Fireblast" number="2"/>
+    <card name="Goblin Bombardment" number="3"/>
+    <card name="Incinerate" number="2"/>
+    <card name="Land Tax" number="3"/>
+    <card name="Lightning Bolt" number="4"/>
+    <card name="Mountain" number="9"/>
+    <card name="Mox Diamond" number="3"/>
+    <card name="Nomads en-Kor" number="4"/>
+    <card name="Plains" number="9"/>
+    <card name="Reprisal" number="2"/>
+    <card name="Scroll Rack" number="3"/>
+    <card name="Seismic Assault" number="2"/>
+    <card name="Shield Sphere" number="4"/>
+    <card name="Shock" number="3"/>
+  </zone>
+</cockatrice_deck>
