@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Grixis Harnessing Vengeance</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Accumulated Knowledge" number="4"/>
+    <card name="Bloodstained Mire" number="1"/>
+    <card name="Burning Vengeance" number="3"/>
+    <card name="Cryptic Serpent" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Harness the Storm" number="2"/>
+    <card name="Impulse" number="3"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Kindle" number="4"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mountain" number="1"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Preordain" number="3"/>
+    <card name="Red Elemental Blast" number="2"/>
+    <card name="Scalding Tarn" number="2"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Steam Vents" number="3"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Swirling Sandstorm" number="2"/>
+    <card name="Terminate" number="2"/>
+    <card name="Tragic Lesson" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Wee Dragonauts" number="2"/>
+  </zone>
+</cockatrice_deck>
