@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Treva SquirrelCraft Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abundance" number="1"/>
+    <card name="Aura of Silence" number="1"/>
+    <card name="Coastal Tower" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Earthcraft" number="1"/>
+    <card name="Elfhame Palace" number="1"/>
+    <card name="Enlightened Tutor" number="2"/>
+    <card name="Exalted Angel" number="2"/>
+    <card name="Exploration" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Forest" number="1"/>
+    <card name="Gaea's Blessing" number="2"/>
+    <card name="Gush" number="3"/>
+    <card name="Impulse" number="3"/>
+    <card name="Island" number="5"/>
+    <card name="Island Sanctuary" number="1"/>
+    <card name="Mana Leak" number="2"/>
+    <card name="Plains" number="2"/>
+    <card name="Prohibit" number="2"/>
+    <card name="Squirrel Nest" number="1"/>
+    <card name="Sterling Grove" number="2"/>
+    <card name="Swords to Plowshares" number="4"/>
+    <card name="Sylvan Library" number="2"/>
+    <card name="Treva's Ruins" number="3"/>
+    <card name="Wall of Blossoms" number="3"/>
+    <card name="Windswept Heath" number="2"/>
+    <card name="Wrath of God" number="2"/>
+  </zone>
+</cockatrice_deck>
