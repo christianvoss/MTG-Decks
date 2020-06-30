@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>2006 Vintage Control Slaver</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Darksteel Colossus" number="1"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Echoing Truth" number="1"/>
+    <card name="Fact or Fiction" number="1"/>
+    <card name="Fire // Ice" number="1"/>
+    <card name="Flooded Strand" number="2"/>
+    <card name="Force of Will" number="4"/>
+    <card name="Goblin Welder" number="3"/>
+    <card name="Island" number="3"/>
+    <card name="Library of Alexandria" number="1"/>
+    <card name="Mana Crypt" number="1"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mana Vault" number="1"/>
+    <card name="Merchant Scroll" number="1"/>
+    <card name="Mindslaver" number="2"/>
+    <card name="Mox Emerald" number="1"/>
+    <card name="Mox Jet" number="1"/>
+    <card name="Mox Pearl" number="1"/>
+    <card name="Mox Ruby" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Pentavus" number="1"/>
+    <card name="Polluted Delta" number="3"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Thirst for Knowledge" number="4"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Tinker" number="1"/>
+    <card name="Tolarian Academy" number="1"/>
+    <card name="Tormod's Crypt" number="1"/>
+    <card name="Triskelion" number="1"/>
+    <card name="Underground Sea" number="2"/>
+    <card name="Volcanic Island" number="4"/>
+    <card name="Yawgmoth's Will" number="1"/>
+  </zone>
+</cockatrice_deck>

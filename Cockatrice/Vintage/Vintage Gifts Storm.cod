@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Vintage Gifts Storm</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Baral, Chief of Compliance" number="1"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Burning Wish" number="3"/>
+    <card name="Counterbalance" number="1"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Flooded Strand" number="2"/>
+    <card name="Flusterstorm" number="1"/>
+    <card name="Force of Will" number="3"/>
+    <card name="Gifts Ungiven" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Library of Alexandria" number="1"/>
+    <card name="Lightning Bolt" number="2"/>
+    <card name="Mana Crypt" number="1"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mox Jet" number="1"/>
+    <card name="Mox Ruby" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Night's Whisper" number="2"/>
+    <card name="Noxious Revival" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Preordain" number="3"/>
+    <card name="Red Elemental Blast" number="2"/>
+    <card name="Sensei's Divining Top" number="2"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Starstorm" number="1"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Tolarian Academy" number="1"/>
+    <card name="Underground Sea" number="3"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Volcanic Island" number="3"/>
+  </zone>
+</cockatrice_deck>

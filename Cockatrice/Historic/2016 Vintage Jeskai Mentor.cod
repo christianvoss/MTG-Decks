@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>2016 Vintage Jeskai Mentor</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Dack Fayden" number="2"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Force of Will" number="4"/>
+    <card name="Gush" number="4"/>
+    <card name="Island" number="1"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Library of Alexandria" number="1"/>
+    <card name="Lightning Bolt" number="2"/>
+    <card name="Mental Misstep" number="4"/>
+    <card name="Monastery Mentor" number="4"/>
+    <card name="Mox Emerald" number="1"/>
+    <card name="Mox Jet" number="1"/>
+    <card name="Mox Pearl" number="1"/>
+    <card name="Mox Ruby" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Ponder" number="1"/>
+    <card name="Preordain" number="4"/>
+    <card name="Pyroblast" number="3"/>
+    <card name="Scalding Tarn" number="4"/>
+    <card name="Snapcaster Mage" number="3"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Treasure Cruise" number="1"/>
+    <card name="Tundra" number="3"/>
+    <card name="Volcanic Island" number="3"/>
+  </zone>
+</cockatrice_deck>

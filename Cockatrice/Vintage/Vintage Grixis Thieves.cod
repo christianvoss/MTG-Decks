@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Vintage Grixis Thieves</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrade" number="1"/>
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Dack Fayden" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Flusterstorm" number="2"/>
+    <card name="Force of Will" number="4"/>
+    <card name="Inkwell Leviathan" number="1"/>
+    <card name="Island" number="1"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Library of Alexandria" number="1"/>
+    <card name="Mana Crypt" number="1"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mox Emerald" number="1"/>
+    <card name="Mox Jet" number="1"/>
+    <card name="Mox Pearl" number="1"/>
+    <card name="Mox Ruby" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Narset, Parter of Veils" number="1"/>
+    <card name="Night's Whisper" number="2"/>
+    <card name="Notion Thief" number="2"/>
+    <card name="Polluted Delta" number="3"/>
+    <card name="Preordain" number="4"/>
+    <card name="Pyroblast" number="2"/>
+    <card name="Scalding Tarn" number="4"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Tinker" number="1"/>
+    <card name="Tolarian Academy" number="1"/>
+    <card name="Treasure Cruise" number="1"/>
+    <card name="Underground Sea" number="3"/>
+    <card name="Volcanic Island" number="3"/>
+  </zone>
+</cockatrice_deck>

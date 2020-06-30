@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Vintage Paradoxical Storm</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Flooded Strand" number="1"/>
+    <card name="Flusterstorm" number="1"/>
+    <card name="Force of Will" number="4"/>
+    <card name="Gitaxian Probe" number="1"/>
+    <card name="Hurkyl's Recall" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Library of Alexandria" number="1"/>
+    <card name="Lotus Petal" number="1"/>
+    <card name="Mana Crypt" number="1"/>
+    <card name="Mana Vault" number="1"/>
+    <card name="Merchant Scroll" number="1"/>
+    <card name="Mind's Desire" number="1"/>
+    <card name="Misty Rainforest" number="1"/>
+    <card name="Monastery Mentor" number="1"/>
+    <card name="Mox Emerald" number="1"/>
+    <card name="Mox Jet" number="1"/>
+    <card name="Mox Opal" number="4"/>
+    <card name="Mox Pearl" number="1"/>
+    <card name="Mox Ruby" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Night's Whisper" number="2"/>
+    <card name="Paradoxical Outcome" number="4"/>
+    <card name="Polluted Delta" number="1"/>
+    <card name="Ponder" number="1"/>
+    <card name="Preordain" number="3"/>
+    <card name="Repeal" number="2"/>
+    <card name="Scalding Tarn" number="2"/>
+    <card name="Sensei's Divining Top" number="2"/>
+    <card name="Snapcaster Mage" number="1"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Tendrils of Agony" number="1"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Timetwister" number="1"/>
+    <card name="Tolarian Academy" number="1"/>
+    <card name="Tundra" number="1"/>
+    <card name="Underground Sea" number="2"/>
+    <card name="Yawgmoth's Will" number="1"/>
+  </zone>
+</cockatrice_deck>
