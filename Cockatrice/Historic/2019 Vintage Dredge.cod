@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>2019 Vintage Dredge</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Bazaar of Baghdad" number="4"/>
+    <card name="Bloodghast" number="4"/>
+    <card name="Bridge from Below" number="4"/>
+    <card name="Cabal Therapy" number="4"/>
+    <card name="Dakmor Salvage" number="2"/>
+    <card name="Force of Vigor" number="4"/>
+    <card name="Golgari Grave-Troll" number="4"/>
+    <card name="Hogaak, Arisen Necropolis" number="3"/>
+    <card name="Hollow One" number="4"/>
+    <card name="Ichorid" number="4"/>
+    <card name="Leyline of the Void" number="4"/>
+    <card name="Petrified Field" number="4"/>
+    <card name="Serum Powder" number="4"/>
+    <card name="Shambling Shell" number="3"/>
+    <card name="Stinkweed Imp" number="4"/>
+    <card name="Unmask" number="4"/>
+  </zone>
+</cockatrice_deck>
