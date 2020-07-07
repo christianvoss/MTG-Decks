@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Vintage BUG Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Assassin's Trophy" number="3"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Collector Ouphe" number="2"/>
+    <card name="Deathrite Shaman" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Flusterstorm" number="1"/>
+    <card name="Force of Will" number="4"/>
+    <card name="Guttural Response" number="2"/>
+    <card name="Impulse" number="3"/>
+    <card name="Island" number="1"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Leovold, Emissary of Trest" number="2"/>
+    <card name="Library of Alexandria" number="1"/>
+    <card name="Mana Drain" number="2"/>
+    <card name="Misty Rainforest" number="2"/>
+    <card name="Mox Emerald" number="1"/>
+    <card name="Mox Jet" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Narset, Parter of Veils" number="1"/>
+    <card name="Oko, Thief of Crowns" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Sylvan Library" number="1"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Torrential Gearhulk" number="1"/>
+    <card name="Tragic Lesson" number="2"/>
+    <card name="Treasure Cruise" number="1"/>
+    <card name="Tropical Island" number="3"/>
+    <card name="Underground Sea" number="3"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Verdant Catacombs" number="2"/>
+    <card name="Wilderness Reclamation" number="1"/>
+  </zone>
+</cockatrice_deck>

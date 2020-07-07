@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Vintage BUG Prision</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="2"/>
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Assassin's Trophy" number="3"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Collector Ouphe" number="2"/>
+    <card name="Crucible of Worlds" number="2"/>
+    <card name="Deathrite Shaman" number="3"/>
+    <card name="Dispel" number="2"/>
+    <card name="Fastbond" number="2"/>
+    <card name="Force of Will" number="3"/>
+    <card name="Island" number="1"/>
+    <card name="Leovold, Emissary of Trest" number="2"/>
+    <card name="Misty Rainforest" number="3"/>
+    <card name="Mox Emerald" number="1"/>
+    <card name="Mox Jet" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Polluted Delta" number="2"/>
+    <card name="Ponder" number="1"/>
+    <card name="Preordain" number="4"/>
+    <card name="Spell Pierce" number="2"/>
+    <card name="Strip Mine" number="1"/>
+    <card name="Sylvan Library" number="2"/>
+    <card name="Tarmogoyf" number="2"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Treetop Village" number="3"/>
+    <card name="Tropical Island" number="3"/>
+    <card name="Underground Sea" number="3"/>
+    <card name="Verdant Catacombs" number="2"/>
+    <card name="Wasteland" number="3"/>
+  </zone>
+</cockatrice_deck>
