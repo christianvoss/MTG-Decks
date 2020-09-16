@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Thud-for-Duds"/>
+        <card number="1" name="Neural Network"/>
+        <card number="1" name="Widget Contraption"/>
+        <card number="1" name="Insufferable Syphon"/>
+        <card number="1" name="Gnomeball Machine"/>
+        <card number="1" name="Dispatch Dispensary"/>
+        <card number="1" name="Refibrillator"/>
+        <card number="1" name="Record Store"/>
+        <card number="1" name="Guest List"/>
+        <card number="1" name="Dual Doomsuits"/>
+        <card number="1" name="Rapid Prototyper"/>
+        <card number="1" name="Pet Project"/>
+        <card number="1" name="Hard Hat Area"/>
+        <card number="1" name="Gift Horse"/>
+        <card number="1" name="Faerie Aerie"/>
+    </zone>
+</cockatrice_deck>
