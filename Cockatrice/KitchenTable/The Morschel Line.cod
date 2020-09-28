@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>The Casual Morschel Line</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Angelic Wall" number="2"/>
+    <card name="Castle" number="1"/>
+    <card name="Deprive" number="3"/>
+    <card name="Doorkeeper" number="3"/>
+    <card name="Enlightened Tutor" number="2"/>
+    <card name="Flood Plain" number="1"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Fog Bank" number="1"/>
+    <card name="Forbidding Watchtower" number="3"/>
+    <card name="Hallowed Fountain" number="3"/>
+    <card name="High Alert" number="3"/>
+    <card name="Island" number="1"/>
+    <card name="Island" number="1"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Perimeter Captain" number="3"/>
+    <card name="Plains" number="1"/>
+    <card name="Prairie Stream" number="2"/>
+    <card name="Rhystic Study" number="1"/>
+    <card name="Steam Vents" number="2"/>
+    <card name="Swords to Plowshares" number="2"/>
+    <card name="Teyo, the Shieldmage" number="1"/>
+    <card name="Tragic Lesson" number="3"/>
+    <card name="Vent Sentinel" number="2"/>
+    <card name="Wall of Omens" number="4"/>
+    <card name="Wall of Runes" number="4"/>
+    <card name="Wall of Tears" number="3"/>
+  </zone>
+</cockatrice_deck>
