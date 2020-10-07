@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>1997 Type I French Miner</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="Black Vise" number="1"/>
+    <card name="Braingeyser" number="1"/>
+    <card name="Dwarven Miner" number="4"/>
+    <card name="Fireball" number="1"/>
+    <card name="Frenetic Efreet" number="3"/>
+    <card name="Gemstone Mine" number="3"/>
+    <card name="Goblin Tinkerer" number="2"/>
+    <card name="Kird Ape" number="3"/>
+    <card name="Library of Alexandria" number="1"/>
+    <card name="Lightning Bolt" number="4"/>
+    <card name="Mishra's Factory" number="3"/>
+    <card name="Mox Emerald" number="1"/>
+    <card name="Mox Ruby" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Mystical Tutor" number="3"/>
+    <card name="Psionic Blast" number="2"/>
+    <card name="Recall" number="1"/>
+    <card name="Regrowth" number="1"/>
+    <card name="Serendib Efreet" number="1"/>
+    <card name="Strip Mine" number="4"/>
+    <card name="Sylvan Library" number="1"/>
+    <card name="Taiga" number="4"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Timetwister" number="1"/>
+    <card name="Tropical Island" number="4"/>
+    <card name="Volcanic Island" number="4"/>
+    <card name="Wheel of Fortune" number="1"/>
+    <card name="Zuran Orb" number="1"/>
+  </zone>
+</cockatrice_deck>
