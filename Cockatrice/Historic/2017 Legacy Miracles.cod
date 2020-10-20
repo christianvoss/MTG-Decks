@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>2017 Legacy Miracles</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Brainstorm" number="4"/>
+    <card name="Counterbalance" number="3"/>
+    <card name="Counterspell" number="2"/>
+    <card name="Entreat the Angels" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Force of Will" number="4"/>
+    <card name="Inquisition of Kozilek" number="2"/>
+    <card name="Island" number="4"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Plains" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Predict" number="3"/>
+    <card name="Sensei's Divining Top" number="4"/>
+    <card name="Snapcaster Mage" number="3"/>
+    <card name="Swamp" number="1"/>
+    <card name="Swords to Plowshares" number="3"/>
+    <card name="Terminus" number="2"/>
+    <card name="Tundra" number="3"/>
+    <card name="Underground Sea" number="2"/>
+    <card name="Vindicate" number="2"/>
+  </zone>
+</cockatrice_deck>

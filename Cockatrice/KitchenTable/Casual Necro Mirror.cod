@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Necro Mirror</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Dark Ritual" number="4"/>
+    <card name="Demonic Consultation" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dispel" number="3"/>
+    <card name="Drowned Catacomb" number="4"/>
+    <card name="Duress" number="2"/>
+    <card name="Gut Shot" number="3"/>
+    <card name="Inquisition of Kozilek" number="2"/>
+    <card name="Languish" number="1"/>
+    <card name="Lim-Dul's Vault" number="4"/>
+    <card name="Mana Crypt" number="1"/>
+    <card name="Mana Vault" number="1"/>
+    <card name="Mirror Universe" number="4"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Necropotence" number="4"/>
+    <card name="Negate" number="4"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Swamp" number="3"/>
+    <card name="Swamp" number="3"/>
+    <card name="Tainted Isle" number="4"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Victim of Night" number="3"/>
+  </zone>
+</cockatrice_deck>

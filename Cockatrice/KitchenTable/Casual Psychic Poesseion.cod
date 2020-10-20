@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Psychic Poesseion</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="2"/>
+    <card name="Arcane Denial" number="2"/>
+    <card name="Black Vise" number="2"/>
+    <card name="Bloodstained Mire" number="1"/>
+    <card name="Breeding Pool" number="1"/>
+    <card name="Dack Fayden" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Dispel" number="2"/>
+    <card name="Gaea's Blessing" number="2"/>
+    <card name="Gifts Ungiven" number="2"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Leyline of Anticipation" number="2"/>
+    <card name="Lightning Bolt" number="2"/>
+    <card name="Lorescale Coatl" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mikokoro, Center of the Sea" number="1"/>
+    <card name="Mox Diamond" number="2"/>
+    <card name="Mystic Sanctuary" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Prosperity" number="2"/>
+    <card name="Psychic Possession" number="2"/>
+    <card name="Scalding Tarn" number="2"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Steam Vents" number="3"/>
+    <card name="Sunken Hollow" number="1"/>
+    <card name="Underworld Dreams" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Wilderness Reclamation" number="1"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>

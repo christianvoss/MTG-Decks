@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>1997 Necro Mirror</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Arcane Denial" number="4"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="City of Brass" number="4"/>
+    <card name="Dark Ritual" number="4"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Enlightened Tutor" number="3"/>
+    <card name="Gut Shot" number="2"/>
+    <card name="Ivory Tower" number="1"/>
+    <card name="Mana Crypt" number="1"/>
+    <card name="Mana Drain" number="2"/>
+    <card name="Mana Vault" number="3"/>
+    <card name="Mirror Universe" number="1"/>
+    <card name="Mox Diamond" number="3"/>
+    <card name="Mox Jet" number="1"/>
+    <card name="Mox Ruby" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Mystical Tutor" number="2"/>
+    <card name="Necropotence" number="4"/>
+    <card name="Scrubland" number="4"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Swamp" number="1"/>
+    <card name="Swamp" number="3"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Underground River" number="4"/>
+    <card name="Underground Sea" number="4"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Zuran Orb" number="1"/>
+  </zone>
+</cockatrice_deck>
