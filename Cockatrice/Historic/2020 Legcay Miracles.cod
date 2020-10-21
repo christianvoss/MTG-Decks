@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>2020 Legcay Miracles</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Brainstorm" number="4"/>
+    <card name="Counterbalance" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Dark Depths" number="2"/>
+    <card name="Dispel" number="2"/>
+    <card name="Enlightened Tutor" number="2"/>
+    <card name="Entreat the Angels" number="1"/>
+    <card name="Ethereal Forager" number="1"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Mystic Remora" number="2"/>
+    <card name="Negate" number="2"/>
+    <card name="Plains" number="1"/>
+    <card name="Polluted Delta" number="2"/>
+    <card name="Ponder" number="4"/>
+    <card name="Prairie Stream" number="4"/>
+    <card name="Predict" number="3"/>
+    <card name="Scalding Tarn" number="2"/>
+    <card name="Sensei's Divining Top" number="3"/>
+    <card name="Snapcaster Mage" number="2"/>
+    <card name="Solemnity" number="2"/>
+    <card name="Swords to Plowshares" number="2"/>
+    <card name="Terminus" number="2"/>
+    <card name="Unexpectedly Absent" number="2"/>
+  </zone>
+</cockatrice_deck>
