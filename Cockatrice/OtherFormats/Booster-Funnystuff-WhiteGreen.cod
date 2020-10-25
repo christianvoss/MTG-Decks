@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Booster-Funnystuff-WhiteGreen</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ardenvale Tactician" number="1"/>
+    <card name="Beloved Princess" number="1"/>
+    <card name="Candlelight Vigil" number="1"/>
+    <card name="Conclave Tribunal" number="1"/>
+    <card name="Crashing Drawbridge" number="1"/>
+    <card name="Demotion" number="1"/>
+    <card name="District Guide" number="1"/>
+    <card name="Flaxen Intruder" number="1"/>
+    <card name="Forest" number="4"/>
+    <card name="Forest" number="2"/>
+    <card name="Forest" number="2"/>
+    <card name="Forest" number="1"/>
+    <card name="Gingerbrute" number="1"/>
+    <card name="Glass Casket" number="1"/>
+    <card name="Hatchery Spider" number="1"/>
+    <card name="Healer's Hawk" number="1"/>
+    <card name="Henge Walker" number="1"/>
+    <card name="Inspiring Unicorn" number="1"/>
+    <card name="Intrusive Packbeast" number="1"/>
+    <card name="Kenrith's Transformation" number="1"/>
+    <card name="Knight of the Keep" number="1"/>
+    <card name="Locthwain Gargoyle" number="1"/>
+    <card name="Oakhame Adversary" number="1"/>
+    <card name="Parhelion Patrol" number="2"/>
+    <card name="Plains" number="4"/>
+    <card name="Plains" number="1"/>
+    <card name="Plains" number="6"/>
+    <card name="Plains" number="2"/>
+    <card name="Prey Upon" number="1"/>
+    <card name="Righteous Blow" number="1"/>
+    <card name="Roc Charger" number="1"/>
+    <card name="Rosethorn Halberd" number="1"/>
+    <card name="Selesnya Guildgate" number="1"/>
+    <card name="Siege Wurm" number="1"/>
+    <card name="Sporecap Spider" number="1"/>
+    <card name="Sunhome Stalwart" number="1"/>
+    <card name="Sworn Companions" number="1"/>
+    <card name="Take Heart" number="1"/>
+    <card name="True Love's Kiss" number="1"/>
+    <card name="Urban Utopia" number="1"/>
+    <card name="Venerable Knight" number="1"/>
+    <card name="Wary Okapi" number="1"/>
+    <card name="Weapon Rack" number="1"/>
+    <card name="Wildborn Preserver" number="1"/>
+    <card name="Youthful Knight" number="1"/>
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Booster-Funnystuff-RedBlue</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Brimstone Trebuchet" number="1"/>
+    <card name="Claim the Firstborn" number="1"/>
+    <card name="Cosmotronic Wave" number="2"/>
+    <card name="Dazzling Lights" number="2"/>
+    <card name="Didn't Say Please" number="1"/>
+    <card name="Embereth Paladin" number="1"/>
+    <card name="Erratic Cyclops" number="1"/>
+    <card name="Fearless Halberdier" number="1"/>
+    <card name="Goblin Banneret" number="1"/>
+    <card name="Goblin Electromancer" number="1"/>
+    <card name="Hypnotic Sprite" number="1"/>
+    <card name="Island" number="3"/>
+    <card name="Island" number="3"/>
+    <card name="Island" number="2"/>
+    <card name="Island" number="1"/>
+    <card name="Lava Coil" number="1"/>
+    <card name="Leapfrog" number="1"/>
+    <card name="Loch Dragon" number="1"/>
+    <card name="Maniacal Rage" number="1"/>
+    <card name="Merfolk Secretkeeper" number="1"/>
+    <card name="Mystic Sanctuary" number="1"/>
+    <card name="Ornery Goblin" number="2"/>
+    <card name="Passwall Adept" number="1"/>
+    <card name="Raging Redcap" number="1"/>
+    <card name="Rimrock Knight" number="2"/>
+    <card name="Rubblebelt Boar" number="1"/>
+    <card name="Run Away Together" number="1"/>
+    <card name="Sage of the Falls" number="1"/>
+    <card name="Scorching Dragonfire" number="1"/>
+    <card name="Sonic Assault" number="1"/>
+    <card name="Sure Strike" number="1"/>
+    <card name="Swamp" number="2"/>
+    <card name="Swamp" number="3"/>
+    <card name="Swamp" number="5"/>
+    <card name="Swamp" number="3"/>
+    <card name="Thoughtbound Phantasm" number="1"/>
+    <card name="Vantress Paladin" number="1"/>
+    <card name="Wall of Mist" number="2"/>
+    <card name="Weaselback Redcap" number="1"/>
+    <card name="Witching Well" number="1"/>
+    <card name="Wojek Bodyguard" number="1"/>
+  </zone>
+</cockatrice_deck>
