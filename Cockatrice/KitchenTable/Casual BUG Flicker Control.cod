@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Flicker Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="2"/>
+    <card name="Abundance" number="1"/>
+    <card name="Blue Sun's Zenith" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Deathrite Shaman" number="2"/>
+    <card name="Deliberate" number="3"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Drown in the Loch" number="2"/>
+    <card name="Gaea's Blessing" number="1"/>
+    <card name="Growth Spiral" number="2"/>
+    <card name="Guttural Response" number="1"/>
+    <card name="High Tide" number="2"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Languish" number="1"/>
+    <card name="Leyline of Anticipation" number="1"/>
+    <card name="Maelstrom Pulse" number="1"/>
+    <card name="Misty Rainforest" number="2"/>
+    <card name="Palinchron" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Regrowth" number="1"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Swamp" number="1"/>
+    <card name="Sylvan Library" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Verdant Catacombs" number="2"/>
+    <card name="Vexing Shusher" number="2"/>
+    <card name="Wall of Roots" number="2"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>

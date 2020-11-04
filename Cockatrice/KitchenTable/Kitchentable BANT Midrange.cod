@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Kitchentable BANT Midrange</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Armadillo Cloak" number="4"/>
+    <card name="Avacyn's Pilgrim" number="3"/>
+    <card name="Blossoming Sands" number="4"/>
+    <card name="Coiling Oracle" number="2"/>
+    <card name="Compulsive Research" number="4"/>
+    <card name="Curious Obsession" number="4"/>
+    <card name="Forbidding Watchtower" number="2"/>
+    <card name="Forest" number="1"/>
+    <card name="Forest" number="2"/>
+    <card name="Journey to Nowhere" number="3"/>
+    <card name="Lumbering Falls" number="2"/>
+    <card name="Mishra's Factory" number="2"/>
+    <card name="Negate" number="4"/>
+    <card name="Oblivion Ring" number="2"/>
+    <card name="Seraph of Dawn" number="2"/>
+    <card name="Simic Growth Chamber" number="1"/>
+    <card name="Soltari Champion" number="2"/>
+    <card name="Soltari Monk" number="2"/>
+    <card name="Soltari Priest" number="2"/>
+    <card name="Sylvan Advocate" number="3"/>
+    <card name="Thornwood Falls" number="2"/>
+    <card name="Tireless Tracker" number="1"/>
+    <card name="Tranquil Cove" number="4"/>
+    <card name="Wall of Roots" number="2"/>
+  </zone>
+</cockatrice_deck>
