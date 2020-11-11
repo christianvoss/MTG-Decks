@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Hight Tide Good Stuff Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abundance" number="1"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Conundrum Sphinx" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dispel" number="2"/>
+    <card name="Exsanguinate" number="1"/>
+    <card name="Flooded Strand" number="3"/>
+    <card name="Fog Bank" number="2"/>
+    <card name="Future Sight" number="1"/>
+    <card name="Gifts Ungiven" number="1"/>
+    <card name="Growth Spiral" number="2"/>
+    <card name="Guttural Response" number="2"/>
+    <card name="High Tide" number="3"/>
+    <card name="Island" number="4"/>
+    <card name="Isochron Scepter" number="2"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Nexus of Fate" number="1"/>
+    <card name="Noxious Revival" number="1"/>
+    <card name="Palinchron" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Praetor's Counsel" number="1"/>
+    <card name="Savor the Moment" number="1"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Sylvan Library" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Wall of Roots" number="2"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>

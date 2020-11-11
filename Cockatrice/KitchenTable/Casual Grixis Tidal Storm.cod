@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Grixis Tidal Storm</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Bloodstained Mire" number="1"/>
+    <card name="Blue Sun's Zenith" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Burning Wish" number="2"/>
+    <card name="Cunning Wish" number="1"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Electrostatic Field" number="2"/>
+    <card name="Flusterstorm" number="1"/>
+    <card name="Frantic Search" number="2"/>
+    <card name="Gifts Ungiven" number="2"/>
+    <card name="High Tide" number="2"/>
+    <card name="Island" number="4"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Merchant Scroll" number="1"/>
+    <card name="Mountain" number="1"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Night's Whisper" number="3"/>
+    <card name="Noxious Revival" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="1"/>
+    <card name="Preordain" number="4"/>
+    <card name="Pyroblast" number="1"/>
+    <card name="Scalding Tarn" number="2"/>
+    <card name="Spell Pierce" number="1"/>
+    <card name="Starstorm" number="1"/>
+    <card name="Steam Vents" number="3"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Thousand-Year Storm" number="1"/>
+    <card name="Turnabout" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Watery Grave" number="1"/>
+  </zone>
+</cockatrice_deck>
