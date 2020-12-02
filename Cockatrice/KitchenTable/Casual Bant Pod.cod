@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Bant Pod</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Adarkar Valkyrie" number="1"/>
+    <card name="Akroma, Angel of Wrath" number="1"/>
+    <card name="Angel of Serenity" number="1"/>
+    <card name="Avacyn, Angel of Hope" number="1"/>
+    <card name="Birthing Pod" number="2"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Breeding Pool" number="3"/>
+    <card name="Bruna, the Fading Light" number="1"/>
+    <card name="Counterbalance" number="1"/>
+    <card name="Dovin's Veto" number="2"/>
+    <card name="Enlightened Tutor" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Gisela, the Broken Blade" number="1"/>
+    <card name="Hallowed Fountain" number="1"/>
+    <card name="Iona, Shield of Emeria" number="1"/>
+    <card name="Island" number="7"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Karmic Guide" number="1"/>
+    <card name="Knight of Autumn" number="1"/>
+    <card name="Mana Drain" number="2"/>
+    <card name="Mulldrifter" number="2"/>
+    <card name="Platinum Angel" number="1"/>
+    <card name="Prairie Stream" number="3"/>
+    <card name="Restoration Angel" number="2"/>
+    <card name="Reya Dawnbringer" number="1"/>
+    <card name="Sensei's Divining Top" number="2"/>
+    <card name="Twilight Shepherd" number="1"/>
+    <card name="Uro, Titan of Nature's Wrath" number="1"/>
+    <card name="Voltaic Key" number="1"/>
+    <card name="Vorapede" number="1"/>
+    <card name="Wall of Blossoms" number="3"/>
+    <card name="Windswept Heath" number="2"/>
+    <card name="Wood Elves" number="1"/>
+  </zone>
+</cockatrice_deck>
