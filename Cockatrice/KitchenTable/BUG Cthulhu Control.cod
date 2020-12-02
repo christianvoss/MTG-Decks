@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>BUG Cthulhu Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="2"/>
+    <card name="Abundance" number="1"/>
+    <card name="Arixmethes, Slumbering Isle" number="2"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Deliberate" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Drown in the Loch" number="2"/>
+    <card name="Exsanguinate" number="1"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Growth Spiral" number="2"/>
+    <card name="High Tide" number="2"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Leyline of Anticipation" number="1"/>
+    <card name="Maelstrom Pulse" number="1"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mystic Sanctuary" number="1"/>
+    <card name="Palinchron" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Preordain" number="3"/>
+    <card name="Regrowth" number="2"/>
+    <card name="Sphinx's Tutelage" number="1"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Sylvan Library" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Wall of Roots" number="2"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Wrexial, the Risen Deep" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>

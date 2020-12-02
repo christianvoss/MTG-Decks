@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Monster</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancient Craving" number="3"/>
+    <card name="Arixmethes, Slumbering Isle" number="2"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Consuming Aberration" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Gaea's Blessing" number="1"/>
+    <card name="High Tide" number="2"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Leyline of Anticipation" number="1"/>
+    <card name="Maelstrom Pulse" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Merchant Scroll" number="1"/>
+    <card name="Misty Rainforest" number="3"/>
+    <card name="Mystic Sanctuary" number="1"/>
+    <card name="Nemesis of Reason" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Preordain" number="4"/>
+    <card name="Ruin Crab" number="3"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Titans' Nest" number="1"/>
+    <card name="Turnabout" number="1"/>
+    <card name="Uro, Titan of Nature's Wrath" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Verdant Catacombs" number="2"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Wrexial, the Risen Deep" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>
