@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Grixis Dragonstorm</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Bladewing the Risen" number="1"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Crosis, the Purger" number="1"/>
+    <card name="Dark Ritual" number="3"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Dragonlord Kolaghan" number="1"/>
+    <card name="Dragonlord Silumgar" number="1"/>
+    <card name="Dragonstorm" number="2"/>
+    <card name="Electrostatic Field" number="3"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Kilnmouth Dragon" number="1"/>
+    <card name="Lathliss, Dragon Queen" number="1"/>
+    <card name="Lightning Bolt" number="3"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mountain" number="1"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Nicol Bolas" number="1"/>
+    <card name="Niv-Mizzet, Parun" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Scalding Tarn" number="2"/>
+    <card name="Seething Song" number="3"/>
+    <card name="Steam Vents" number="2"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Swamp" number="1"/>
+    <card name="Thundermaw Hellkite" number="2"/>
+    <card name="Treasure Cruise" number="1"/>
+    <card name="Utvara Hellkite" number="1"/>
+    <card name="Watery Grave" number="2"/>
+  </zone>
+</cockatrice_deck>

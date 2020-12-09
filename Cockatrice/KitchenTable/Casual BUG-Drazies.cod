@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG-Drazies</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancient Craving" number="2"/>
+    <card name="Ash Barrens" number="2"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Breaker of Armies" number="1"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Desolation Twin" number="1"/>
+    <card name="Emrakul, the Aeons Torn" number="1"/>
+    <card name="Emrakul, the Promised End" number="1"/>
+    <card name="Energy Tap" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="It That Betrays" number="1"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Leyline of Anticipation" number="1"/>
+    <card name="Maelstrom Pulse" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Misty Rainforest" number="3"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Preordain" number="4"/>
+    <card name="Sacrifice" number="2"/>
+    <card name="Scornful Egotist" number="3"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Titans' Nest" number="2"/>
+    <card name="Tooth and Nail" number="1"/>
+    <card name="Ulamog, the Ceaseless Hunger" number="1"/>
+    <card name="Urban Evolution" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Verdant Catacombs" number="2"/>
+    <card name="Wall of Roots" number="2"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>
