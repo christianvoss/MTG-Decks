@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Dredge Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="2"/>
+    <card name="Ancient Craving" number="2"/>
+    <card name="Arixmethes, Slumbering Isle" number="2"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Dark Depths" number="1"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Drown in the Loch" number="2"/>
+    <card name="Emrakul, the Aeons Torn" number="1"/>
+    <card name="Hour of Promise" number="1"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Kozilek, Butcher of Truth" number="1"/>
+    <card name="Leyline of Anticipation" number="1"/>
+    <card name="Maelstrom Pulse" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Misty Rainforest" number="2"/>
+    <card name="Negate" number="2"/>
+    <card name="Opportunity" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="1"/>
+    <card name="Preordain" number="4"/>
+    <card name="Regrowth" number="1"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Thespian's Stage" number="1"/>
+    <card name="Titans' Nest" number="2"/>
+    <card name="Tooth and Nail" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Verdant Catacombs" number="2"/>
+    <card name="Wall of Roots" number="2"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>

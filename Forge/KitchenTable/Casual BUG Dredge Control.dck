@@ -1,0 +1,48 @@
+[metadata]
+Name=Casual BUG Dredge Control
+[Main]
+2 Abrupt Decay|RTR
+2 Ancient Craving|S99
+2 Arixmethes, Slumbering Isle|2XM
+1 Brainstorm|ICE
+2 Breeding Pool|DIS
+1 Dark Depths|CSP
+1 Demonic Tutor|LEB
+2 Drown in the Loch|ELD
+1 Emrakul, the Aeons Torn|ROE
+1 Hour of Promise|HOU
+3 Island|ONS|2
+2 Jace, the Mind Sculptor|A25
+1 Kozilek, Butcher of Truth|ROE
+1 Leyline of Anticipation|M11
+2 Maelstrom Pulse|ARB
+4 Mana Drain|ME3
+2 Misty Rainforest|ZEN
+2 Negate|ZNR
+2 Opportunity|ULG
+4 Polluted Delta|KTK
+1 Ponder|M10
+4 Preordain|M11
+1 Regrowth|3ED
+2 Sunken Hollow|BFZ
+1 Thespian's Stage|C19
+2 Titans' Nest|IKO|1
+1 Tooth and Nail|MRD
+1 Vampiric Tutor|VIS
+2 Verdant Catacombs|ZEN
+2 Wall of Roots|MIR
+1 Watery Grave|RAV
+2 Wilderness Reclamation|RNA
+2 Zagoth Triome|IKO|1
+[Sideboard]
+1 Abundance|USG
+1 Archaeomancer|M13
+1 Blightsteel Colossus|MBS
+3 Deliberate|ZNR
+1 Exsanguinate|SOM
+1 Forest|ONS|2
+1 Ghostly Flicker|AVR
+2 Growth Spiral|RNA
+1 Karrthus, Tyrant of Jund|ARB
+1 Leyline of Anticipation|M11
+2 Sylvan Library|LEG
