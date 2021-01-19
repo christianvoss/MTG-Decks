@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Delver</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Careful Study" number="2"/>
+    <card name="Dauthi Horror" number="4"/>
+    <card name="Daze" number="2"/>
+    <card name="Empyrial Armor" number="2"/>
+    <card name="Flooded Strand" number="3"/>
+    <card name="Foil" number="2"/>
+    <card name="Gemstone Mine" number="2"/>
+    <card name="Gush" number="3"/>
+    <card name="Hypnotic Specter" number="2"/>
+    <card name="Impulse" number="4"/>
+    <card name="Island" number="5"/>
+    <card name="Memory Lapse" number="4"/>
+    <card name="Plains" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Portent" number="4"/>
+    <card name="Predict" number="3"/>
+    <card name="Shadowmage Infiltrator" number="2"/>
+    <card name="Snuff Out" number="1"/>
+    <card name="Swamp" number="2"/>
+    <card name="Swamp" number="1"/>
+    <card name="Swords to Plowshares" number="2"/>
+    <card name="Terror" number="2"/>
+    <card name="Unstable Mutation" number="2"/>
+  </zone>
+</cockatrice_deck>

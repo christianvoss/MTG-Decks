@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>OldSchool Blue Prison</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Atog" number="2"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="Braingeyser" number="1"/>
+    <card name="City of Brass" number="4"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Howling Mine" number="3"/>
+    <card name="Icy Manipulator" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Library of Alexandria" number="1"/>
+    <card name="Lightning Bolt" number="2"/>
+    <card name="Mana Drain" number="1"/>
+    <card name="Mind Twist" number="1"/>
+    <card name="Mishra's Factory" number="3"/>
+    <card name="Mox Jet" number="1"/>
+    <card name="Mox Ruby" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Recall" number="1"/>
+    <card name="Red Elemental Blast" number="2"/>
+    <card name="Relic Barrier" number="3"/>
+    <card name="Shatter" number="3"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Strip Mine" number="4"/>
+    <card name="Terror" number="1"/>
+    <card name="The Abyss" number="1"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Underground Sea" number="4"/>
+    <card name="Volcanic Island" number="4"/>
+    <card name="Winter Orb" number="3"/>
+  </zone>
+</cockatrice_deck>
