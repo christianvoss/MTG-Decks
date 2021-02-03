@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>MiddleSchool BUG Delver</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Counterspell" number="4"/>
+    <card name="Elvish Aberration" number="2"/>
+    <card name="Exploration" number="2"/>
+    <card name="Fallow Wurm" number="1"/>
+    <card name="Forest" number="1"/>
+    <card name="Forest" number="2"/>
+    <card name="Gaea's Blessing" number="2"/>
+    <card name="Ghastly Demise" number="2"/>
+    <card name="Gush" number="3"/>
+    <card name="Hidden Horror" number="1"/>
+    <card name="Impulse" number="4"/>
+    <card name="Island" number="5"/>
+    <card name="Mana Leak" number="3"/>
+    <card name="Nostalgic Dreams" number="1"/>
+    <card name="Phyrexian Scuta" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Portent" number="3"/>
+    <card name="Quirion Dryad" number="4"/>
+    <card name="Salt Marsh" number="3"/>
+    <card name="Skyshroud Elite" number="2"/>
+    <card name="Sleight of Hand" number="2"/>
+    <card name="Smother" number="2"/>
+    <card name="Swamp" number="3"/>
+    <card name="Twisted Abomination" number="2"/>
+  </zone>
+  <zone name="side">
+  <card number="2" name="Crumble"/>
+  <card number="3" name="Duress"/>
+  <card number="2" name="Energy Flux"/>
+  <card number="4" name="Force of Will"/>
+  <card number="2" name="Living Wish"/>
+  <card number="2" name="Naturalize"/>
+  </zone>
+</cockatrice_deck>

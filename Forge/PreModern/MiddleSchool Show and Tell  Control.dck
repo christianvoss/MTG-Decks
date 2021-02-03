@@ -1,0 +1,31 @@
+[metadata]
+Name=MiddleSchool Show and Tell  Control
+[Main]
+2 Absorb|INV
+4 Accumulated Knowledge|NMS
+2 Benthic Behemoth|TMP
+2 Coastal Tower|INV
+3 Counterspell|MMQ
+2 Denizen of the Deep|S99
+1 Enlightened Tutor|MIR
+1 Feldon's Cane|CHR
+3 Flooded Strand|ONS
+2 Force Spike|5ED
+2 Hymn to Tourach|ATH
+2 Hypnox|TOR
+4 Impulse|VIS
+3 Island|ONS|2
+1 Ivory Tower|4ED
+3 Mystical Tutor|MIR
+2 Phyrexian Arena|APC
+2 Plains|ONS|2
+4 Polluted Delta|ONS
+3 Salt Marsh|INV
+3 Show and Tell|USG
+3 Swamp|ONS|4
+3 Swords to Plowshares|ICE
+2 Vindicate|APC
+1 Wrath of God|POR
+[Sideboard]
+3 Exalted Angel|ONS
+3 Psychatog|ODY

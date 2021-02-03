@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Blue Artifact Prison</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancient Tomb" number="4"/>
+    <card name="Coastal Tower" number="4"/>
+    <card name="Counterspell" number="2"/>
+    <card name="Enlightened Tutor" number="3"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Grand Coliseum" number="2"/>
+    <card name="Howling Mine" number="3"/>
+    <card name="Icy Manipulator" number="3"/>
+    <card name="Island" number="3"/>
+    <card name="Kismet" number="1"/>
+    <card name="Mana Leak" number="2"/>
+    <card name="Mox Diamond" number="3"/>
+    <card name="Pendrell Mists" number="1"/>
+    <card name="Phyrexian Colossus" number="1"/>
+    <card name="Plains" number="2"/>
+    <card name="Prohibit" number="2"/>
+    <card name="Propaganda" number="1"/>
+    <card name="Rishadan Port" number="3"/>
+    <card name="Shield Sphere" number="4"/>
+    <card name="Swords to Plowshares" number="4"/>
+    <card name="Tinker" number="2"/>
+    <card name="Voltaic Key" number="1"/>
+    <card name="Winter Orb" number="3"/>
+    <card name="Wrath of God" number="2"/>
+  </zone>
+</cockatrice_deck>

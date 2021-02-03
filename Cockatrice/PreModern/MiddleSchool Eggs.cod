@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>MiddleSchool Eggs</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancient Spring" number="2"/>
+    <card name="Ancient Tomb" number="4"/>
+    <card name="Burning Wish" number="2"/>
+    <card name="Cabal Ritual" number="4"/>
+    <card name="Chromatic Sphere" number="4"/>
+    <card name="City of Traitors" number="1"/>
+    <card name="Darkwater Egg" number="4"/>
+    <card name="Frantic Search" number="4"/>
+    <card name="Grim Monolith" number="3"/>
+    <card name="Helm of Awakening" number="4"/>
+    <card name="Island" number="1"/>
+    <card name="Lotus Petal" number="4"/>
+    <card name="Meditate" number="4"/>
+    <card name="Mossfire Egg" number="3"/>
+    <card name="Nightscape Familiar" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Shadowblood Egg" number="4"/>
+    <card name="Skycloud Egg" number="4"/>
+    <card name="Swamp" number="1"/>
+    <card name="Tendrils of Agony" number="2"/>
+  </zone>
+      <zone name="side">
+      <card number="2" name="Snap"/>
+      <card number="1" name="Tendrils of Agony"/>
+      <card number="3" name="Defense Grid"/>
+      <card number="1" name="Diminishing Returns"/>
+      <card number="1" name="Duress"/>
+      <card number="1" name="Flux"/>
+      <card number="1" name="Hull Breach"/>
+      <card number="1" name="Ill-Gotten Gains"/>
+      <card number="1" name="Infernal Contract"/>
+      <card number="1" name="Primitive Justice"/>
+      <card number="2" name="Pyroclasm"/>
+  </zone>
+</cockatrice_deck>

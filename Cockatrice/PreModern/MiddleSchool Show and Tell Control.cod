@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>MiddleSchool Show and Tell  Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Absorb" number="2"/>
+    <card name="Accumulated Knowledge" number="4"/>
+    <card name="Benthic Behemoth" number="2"/>
+    <card name="Coastal Tower" number="2"/>
+    <card name="Counterspell" number="3"/>
+    <card name="Denizen of the Deep" number="2"/>
+    <card name="Enlightened Tutor" number="1"/>
+    <card name="Feldon's Cane" number="1"/>
+    <card name="Flooded Strand" number="3"/>
+    <card name="Force Spike" number="2"/>
+    <card name="Hymn to Tourach" number="2"/>
+    <card name="Hypnox" number="2"/>
+    <card name="Impulse" number="4"/>
+    <card name="Island" number="3"/>
+    <card name="Ivory Tower" number="1"/>
+    <card name="Mystical Tutor" number="3"/>
+    <card name="Phyrexian Arena" number="2"/>
+    <card name="Plains" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Salt Marsh" number="3"/>
+    <card name="Show and Tell" number="3"/>
+    <card name="Swamp" number="3"/>
+    <card name="Swords to Plowshares" number="3"/>
+    <card name="Vindicate" number="2"/>
+    <card name="Wrath of God" number="1"/>
+  </zone>
+</cockatrice_deck>
