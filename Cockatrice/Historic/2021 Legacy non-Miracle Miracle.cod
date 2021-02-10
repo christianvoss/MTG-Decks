@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>2021 Legacy non-Miracle Miracle</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="3"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Counterbalance" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Emrakul, the Aeons Torn" number="1"/>
+    <card name="Forest" number="1"/>
+    <card name="Gaea's Blessing" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Maelstrom Pulse" number="2"/>
+    <card name="Misty Rainforest" number="3"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Omniscience" number="1"/>
+    <card name="Opportunity" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Predict" number="2"/>
+    <card name="Sensei's Divining Top" number="3"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Swamp" number="1"/>
+    <card name="Titans' Nest" number="2"/>
+    <card name="Tooth and Nail" number="1"/>
+    <card name="Verdant Catacombs" number="3"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Xenagos, God of Revels" number="1"/>
+    <card name="Yuriko, the Tiger's Shadow" number="2"/>
+  </zone>
+</cockatrice_deck>
