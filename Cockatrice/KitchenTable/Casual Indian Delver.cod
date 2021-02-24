@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Indian Delver</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Blood Crypt" number="1"/>
+    <card name="Bloodstained Mire" number="2"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Daze" number="3"/>
+    <card name="Delver of Secrets" number="4"/>
+    <card name="Duress" number="3"/>
+    <card name="Heir of Falkenrath" number="2"/>
+    <card name="Hymn to Tourach" number="4"/>
+    <card name="Island" number="1"/>
+    <card name="Lightning Bolt" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Red Elemental Blast" number="2"/>
+    <card name="Scalding Tarn" number="2"/>
+    <card name="Steam Vents" number="2"/>
+    <card name="Swamp" number="1"/>
+    <card name="Terminate" number="2"/>
+    <card name="Treasure Cruise" number="4"/>
+    <card name="Vampire Nighthawk" number="4"/>
+    <card name="Victim of Night" number="2"/>
+    <card name="Watery Grave" number="3"/>
+  </zone>
+</cockatrice_deck>

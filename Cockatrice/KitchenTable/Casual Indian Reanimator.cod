@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Indian Reanimator</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Animate Dead" number="4"/>
+    <card name="Balefire Dragon" number="1"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Buried Alive" number="3"/>
+    <card name="Careful Study" number="4"/>
+    <card name="Dispel" number="4"/>
+    <card name="Duress" number="4"/>
+    <card name="Exhume" number="4"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Island" number="3"/>
+    <card name="Medomai the Ageless" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Putrid Imp" number="4"/>
+    <card name="Reya Dawnbringer" number="1"/>
+    <card name="Spell Pierce" number="2"/>
+    <card name="Stormtide Leviathan" number="2"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Swamp" number="2"/>
+    <card name="Watery Grave" number="2"/>
+  </zone>
+</cockatrice_deck>

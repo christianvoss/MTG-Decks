@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Welder Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Academy Ruins" number="1"/>
+    <card name="Artificer's Intuition" number="2"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Counterbalance" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Dispel" number="2"/>
+    <card name="Entomb" number="2"/>
+    <card name="Goblin Welder" number="3"/>
+    <card name="Island" number="2"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Lightning Bolt" number="3"/>
+    <card name="Mindslaver" number="2"/>
+    <card name="Mountain" number="1"/>
+    <card name="Myr Battlesphere" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Pyroblast" number="2"/>
+    <card name="Scalding Tarn" number="2"/>
+    <card name="Seat of the Synod" number="4"/>
+    <card name="Sensei's Divining Top" number="3"/>
+    <card name="Steam Vents" number="3"/>
+    <card name="Thirst for Knowledge" number="4"/>
+    <card name="Triskelion" number="2"/>
+    <card name="Watery Grave" number="3"/>
+  </zone>
+</cockatrice_deck>
