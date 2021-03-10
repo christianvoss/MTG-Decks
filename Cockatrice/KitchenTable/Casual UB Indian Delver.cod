@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual UB Indian Delver</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Bloodstained Mire" number="2"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Cryptic Serpent" number="2"/>
+    <card name="Daze" number="3"/>
+    <card name="Delver of Secrets" number="4"/>
+    <card name="Dispel" number="2"/>
+    <card name="Drown in the Loch" number="4"/>
+    <card name="Duress" number="3"/>
+    <card name="Hymn to Tourach" number="4"/>
+    <card name="Island" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Scalding Tarn" number="2"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Swamp" number="1"/>
+    <card name="Treasure Cruise" number="4"/>
+    <card name="Vampire Nighthawk" number="4"/>
+    <card name="Wasteland" number="3"/>
+    <card name="Watery Grave" number="2"/>
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual UR Canadian Delver</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Bloodstained Mire" number="2"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Counterspell" number="2"/>
+    <card name="Daze" number="3"/>
+    <card name="Delver of Secrets" number="4"/>
+    <card name="Dispel" number="2"/>
+    <card name="Forked Bolt" number="2"/>
+    <card name="Island" number="3"/>
+    <card name="Kiln Fiend" number="2"/>
+    <card name="Lightning Bolt" number="4"/>
+    <card name="Monastery Swiftspear" number="3"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Red Elemental Blast" number="4"/>
+    <card name="Scalding Tarn" number="2"/>
+    <card name="Steam Vents" number="4"/>
+    <card name="Treasure Cruise" number="4"/>
+    <card name="Wasteland" number="4"/>
+    <card name="Young Pyromancer" number="3"/>
+  </zone>
+</cockatrice_deck>
