@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Bant Enchantress</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abundant Growth" number="2"/>
+    <card name="Argothian Enchantress" number="4"/>
+    <card name="Burgeoning" number="2"/>
+    <card name="Canopy Vista" number="4"/>
+    <card name="Enchantress's Presence" number="4"/>
+    <card name="Fertile Ground" number="3"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Forest" number="2"/>
+    <card name="Forest" number="1"/>
+    <card name="Island" number="2"/>
+    <card name="Island Sanctuary" number="2"/>
+    <card name="Mesa Enchantress" number="4"/>
+    <card name="Omen of the Sea" number="4"/>
+    <card name="Plains" number="1"/>
+    <card name="Plains" number="1"/>
+    <card name="Plains" number="1"/>
+    <card name="Prairie Stream" number="3"/>
+    <card name="Sigil of the Empty Throne" number="2"/>
+    <card name="Solitary Confinement" number="2"/>
+    <card name="Sterling Grove" number="4"/>
+    <card name="Wild Growth" number="2"/>
+    <card name="Windswept Heath" number="4"/>
+    <card name="Words of Wilding" number="2"/>
+  </zone>
+</cockatrice_deck>
