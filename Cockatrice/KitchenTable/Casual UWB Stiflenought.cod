@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual UWB Stiflenought</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Brainstorm" number="4"/>
+    <card name="Counterbalance" number="1"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Dovin's Veto" number="2"/>
+    <card name="Enlightened Tutor" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Hindering Light" number="2"/>
+    <card name="Island" number="4"/>
+    <card name="Island Sanctuary" number="1"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Mox Tantalite" number="2"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Phyrexian Arena" number="2"/>
+    <card name="Phyrexian Dreadnought" number="3"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="2"/>
+    <card name="Prairie Stream" number="3"/>
+    <card name="Sensei's Divining Top" number="2"/>
+    <card name="Stifle" number="3"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Trinket Mage" number="2"/>
+    <card name="Vindicate" number="3"/>
+    <card name="Vision Charm" number="3"/>
+  </zone>
+</cockatrice_deck>
