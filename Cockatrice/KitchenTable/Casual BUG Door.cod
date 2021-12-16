@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Door</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="3"/>
+    <card name="Abundance" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Cascading Cataracts" number="1"/>
+    <card name="Deathrite Shaman" number="3"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Door to Nothingness" number="1"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Guttural Response" number="2"/>
+    <card name="Honden of Night's Reach" number="1"/>
+    <card name="Honden of Seeing Winds" number="1"/>
+    <card name="Island" number="2"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mox Diamond" number="3"/>
+    <card name="Nomadic Elf" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Preordain" number="2"/>
+    <card name="Raugrin Triome" number="2"/>
+    <card name="Spell Pierce" number="2"/>
+    <card name="Squandered Resources" number="1"/>
+    <card name="Sylvan Library" number="2"/>
+    <card name="Treasure Cruise" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Verdant Catacombs" number="2"/>
+    <card name="Wall of Roots" number="2"/>
+    <card name="Watery Grave" number="2"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>
