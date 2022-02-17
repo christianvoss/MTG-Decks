@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Grixis Omniscience</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Accumulated Knowledge" number="4"/>
+    <card name="Bloodstained Mire" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Counterbalance" number="2"/>
+    <card name="Crystal Vein" number="3"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Dispel" number="2"/>
+    <card name="Fatal Push" number="2"/>
+    <card name="Flooded Strand" number="2"/>
+    <card name="Griselbrand" number="2"/>
+    <card name="Impulse" number="3"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Omniscience" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="1"/>
+    <card name="Prohibit" number="1"/>
+    <card name="Sensei's Divining Top" number="2"/>
+    <card name="Show and Tell" number="3"/>
+    <card name="Steam Vents" number="3"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Tendrils of Agony" number="1"/>
+    <card name="Terminate" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Watery Grave" number="1"/>
+  </zone>
+</cockatrice_deck>

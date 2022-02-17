@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Necro Abzan</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="2"/>
+    <card name="City of Solitude" number="1"/>
+    <card name="Dark Ritual" number="4"/>
+    <card name="Deathrite Shaman" number="3"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Evolving Wilds" number="4"/>
+    <card name="Forest" number="2"/>
+    <card name="Gerrard's Wisdom" number="2"/>
+    <card name="Maelstrom Pulse" number="2"/>
+    <card name="Necropotence" number="4"/>
+    <card name="Plains" number="1"/>
+    <card name="Ramunap Excavator" number="2"/>
+    <card name="Reality Smasher" number="2"/>
+    <card name="Sin Collector" number="2"/>
+    <card name="Solitary Confinement" number="1"/>
+    <card name="Strip Mine" number="3"/>
+    <card name="Swamp" number="4"/>
+    <card name="Swords to Plowshares" number="3"/>
+    <card name="Tainted Field" number="4"/>
+    <card name="Tainted Wood" number="4"/>
+    <card name="Thought-Knot Seer" number="3"/>
+    <card name="Utter End" number="2"/>
+    <card name="Vampire Nighthawk" number="3"/>
+    <card name="Vampiric Tutor" number="1"/>
+  </zone>
+</cockatrice_deck>

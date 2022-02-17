@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Esper Show And Tell</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Accumulated Knowledge" number="4"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Dark Depths" number="2"/>
+    <card name="Decree of Silence" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Diabolic Vision" number="2"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Enlightened Tutor" number="1"/>
+    <card name="Enlightened Tutor" number="1"/>
+    <card name="Entreat the Angels" number="1"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Impulse" number="4"/>
+    <card name="Island" number="2"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mystic Remora" number="2"/>
+    <card name="Omniscience" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="1"/>
+    <card name="Prairie Stream" number="3"/>
+    <card name="Sensei's Divining Top" number="2"/>
+    <card name="Show and Tell" number="4"/>
+    <card name="Solemnity" number="2"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Swords to Plowshares" number="2"/>
+    <card name="Terminus" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+  </zone>
+</cockatrice_deck>
