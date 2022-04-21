@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Oldschool ErhnamGeddon</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Armageddon" number="3"/>
+    <card name="Bayou" number="4"/>
+    <card name="Birds of Paradise" number="4"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="City of Brass" number="3"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Disenchant" number="3"/>
+    <card name="Elves of Deep Shadow" number="4"/>
+    <card name="Erhnam Djinn" number="4"/>
+    <card name="Forest" number="1"/>
+    <card name="Greed" number="1"/>
+    <card name="Hypnotic Specter" number="4"/>
+    <card name="Juzam Djinn" number="1"/>
+    <card name="Library of Alexandria" number="1"/>
+    <card name="Mind Twist" number="1"/>
+    <card name="Mox Emerald" number="1"/>
+    <card name="Mox Jet" number="1"/>
+    <card name="Mox Pearl" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Regrowth" number="1"/>
+    <card name="Savannah" number="4"/>
+    <card name="Scrubland" number="2"/>
+    <card name="Sengir Vampire" number="2"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Strip Mine" number="1"/>
+    <card name="Swords to Plowshares" number="4"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Timetwister" number="1"/>
+    <card name="Tropical Island" number="2"/>
+  </zone>
+</cockatrice_deck>

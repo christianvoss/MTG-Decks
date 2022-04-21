@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Oldschool Mono Blue</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Amnesia" number="2"/>
+    <card name="Braingeyser" number="1"/>
+    <card name="Clone" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Deep Spawn" number="1"/>
+    <card name="Island" number="15"/>
+    <card name="Lord of Atlantis" number="4"/>
+    <card name="Mahamoti Djinn" number="1"/>
+    <card name="Mana Drain" number="1"/>
+    <card name="Merfolk of the Pearl Trident" number="4"/>
+    <card name="Mind Bomb" number="3"/>
+    <card name="Mishra's Factory" number="4"/>
+    <card name="Power Sink" number="2"/>
+    <card name="Psionic Blast" number="4"/>
+    <card name="Recall" number="1"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Sunken City" number="3"/>
+    <card name="Svyelunite Priest" number="3"/>
+    <card name="Vesuvan Doppelganger" number="1"/>
+    <card name="Vodalian Mage" number="3"/>
+  </zone>
+</cockatrice_deck>

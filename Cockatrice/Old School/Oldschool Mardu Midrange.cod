@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Oldschool Mardu Midrange</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Badlands" number="4"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="City of Brass" number="2"/>
+    <card name="Dark Ritual" number="3"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Disenchant" number="4"/>
+    <card name="Fireball" number="1"/>
+    <card name="Greed" number="1"/>
+    <card name="Hypnotic Specter" number="4"/>
+    <card name="Juzam Djinn" number="3"/>
+    <card name="Lightning Bolt" number="4"/>
+    <card name="Maze of Ith" number="1"/>
+    <card name="Mind Twist" number="1"/>
+    <card name="Mishra's Factory" number="1"/>
+    <card name="Mountain" number="1"/>
+    <card name="Mox Jet" number="1"/>
+    <card name="Mox Pearl" number="1"/>
+    <card name="Mox Ruby" number="1"/>
+    <card name="Plains" number="1"/>
+    <card name="Plateau" number="4"/>
+    <card name="Scrubland" number="4"/>
+    <card name="Sedge Troll" number="4"/>
+    <card name="Serra Angel" number="2"/>
+    <card name="Strip Mine" number="1"/>
+    <card name="Swamp" number="1"/>
+    <card name="Swords to Plowshares" number="4"/>
+    <card name="Terror" number="3"/>
+    <card name="The Wretched" number="1"/>
+  </zone>
+</cockatrice_deck>

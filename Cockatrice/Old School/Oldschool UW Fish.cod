@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Oldschool UW Fish</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Armageddon" number="3"/>
+    <card name="Balance" number="1"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="City of Brass" number="3"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Disenchant" number="3"/>
+    <card name="Energy Flux" number="3"/>
+    <card name="Flying Men" number="3"/>
+    <card name="Force Spike" number="3"/>
+    <card name="Island" number="6"/>
+    <card name="Library of Alexandria" number="1"/>
+    <card name="Mana Drain" number="1"/>
+    <card name="Mishra's Factory" number="4"/>
+    <card name="Mox Pearl" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Savannah Lions" number="4"/>
+    <card name="Serendib Efreet" number="4"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Strip Mine" number="2"/>
+    <card name="Swords to Plowshares" number="4"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Timetwister" number="1"/>
+    <card name="Tundra" number="4"/>
+  </zone>
+</cockatrice_deck>

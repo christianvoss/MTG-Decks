@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Oldschool Mono Black</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Black Knight" number="4"/>
+    <card name="Dark Ritual" number="4"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Greed" number="1"/>
+    <card name="Hymn to Tourach" number="4"/>
+    <card name="Hypnotic Specter" number="4"/>
+    <card name="Maze of Ith" number="1"/>
+    <card name="Mind Twist" number="1"/>
+    <card name="Mishra's Factory" number="4"/>
+    <card name="Order of the Ebon Hand" number="4"/>
+    <card name="Paralyze" number="4"/>
+    <card name="Royal Assassin" number="2"/>
+    <card name="Sengir Vampire" number="2"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Strip Mine" number="1"/>
+    <card name="Swamp" number="17"/>
+    <card name="The Rack" number="4"/>
+    <card name="Urborg" number="1"/>
+  </zone>
+</cockatrice_deck>
