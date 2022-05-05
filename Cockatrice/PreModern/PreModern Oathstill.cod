@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Oathstill</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Absorb" number="2"/>
+    <card name="Accumulated Knowledge" number="4"/>
+    <card name="Akroma, Angel of Wrath" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Decree of Justice" number="1"/>
+    <card name="Desertion" number="1"/>
+    <card name="Faerie Conclave" number="2"/>
+    <card name="Flooded Strand" number="2"/>
+    <card name="Forbid" number="1"/>
+    <card name="Forest" number="1"/>
+    <card name="Forest" number="1"/>
+    <card name="Gaea's Blessing" number="2"/>
+    <card name="Island" number="4"/>
+    <card name="Lat-Nam's Legacy" number="2"/>
+    <card name="Mishra's Factory" number="4"/>
+    <card name="Oath of Druids" number="3"/>
+    <card name="Penumbra Wurm" number="1"/>
+    <card name="Plains" number="2"/>
+    <card name="Quicksand" number="2"/>
+    <card name="Rhystic Study" number="2"/>
+    <card name="Spirit of the Night" number="1"/>
+    <card name="Standstill" number="4"/>
+    <card name="Swords to Plowshares" number="3"/>
+    <card name="Treetop Village" number="3"/>
+    <card name="Windswept Heath" number="2"/>
+    <card name="Wrath of God" number="2"/>
+    <card name="Yavimaya Coast" number="2"/>
+  </zone>
+</cockatrice_deck>
