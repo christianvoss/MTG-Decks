@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Mono Black</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Bad Moon" number="2"/>
+    <card name="Cabal Ritual" number="2"/>
+    <card name="Catacomb Dragon" number="2"/>
+    <card name="Contagion" number="2"/>
+    <card name="Dark Ritual" number="4"/>
+    <card name="Dauthi Horror" number="4"/>
+    <card name="Dauthi Marauder" number="3"/>
+    <card name="Dauthi Mindripper" number="2"/>
+    <card name="Dauthi Slayer" number="4"/>
+    <card name="Dauthi Warlord" number="4"/>
+    <card name="Drain Life" number="2"/>
+    <card name="Greed" number="3"/>
+    <card name="Hatred" number="1"/>
+    <card name="Paralyze" number="2"/>
+    <card name="Swamp" number="18"/>
+    <card name="Terror" number="3"/>
+    <card name="Unholy Strength" number="2"/>
+  </zone>
+</cockatrice_deck>
