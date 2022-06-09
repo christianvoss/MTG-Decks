@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Middle School Mono B Necro</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Cabal Ritual" number="4"/>
+    <card name="Contagion" number="2"/>
+    <card name="Corrupt" number="2"/>
+    <card name="Diabolic Edict" number="4"/>
+    <card name="Drain Life" number="4"/>
+    <card name="Duress" number="4"/>
+    <card name="Funeral Charm" number="2"/>
+    <card name="Hymn to Tourach" number="4"/>
+    <card name="Hypnotic Specter" number="4"/>
+    <card name="Nantuko Shade" number="4"/>
+    <card name="Necropotence" number="4"/>
+    <card name="Swamp" number="18"/>
+    <card name="Wasteland" number="4"/>
+  </zone>
+</cockatrice_deck>

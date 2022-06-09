@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Middle School Necro Discard</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Diabolic Edict" number="4"/>
+    <card name="Drain Life" number="3"/>
+    <card name="Duress" number="4"/>
+    <card name="Funeral Charm" number="2"/>
+    <card name="Hymn to Tourach" number="4"/>
+    <card name="Hypnotic Specter" number="4"/>
+    <card name="Masticore" number="2"/>
+    <card name="Mesmeric Fiend" number="2"/>
+    <card name="Mishra's Factory" number="4"/>
+    <card name="Morinfen" number="1"/>
+    <card name="Mox Diamond" number="4"/>
+    <card name="Necropotence" number="4"/>
+    <card name="Skittering Skirge" number="4"/>
+    <card name="Swamp" number="18"/>
+  </zone>
+</cockatrice_deck>

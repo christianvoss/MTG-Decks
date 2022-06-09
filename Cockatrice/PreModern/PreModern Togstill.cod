@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Togstill</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Accumulated Knowledge" number="4"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Duress" number="4"/>
+    <card name="Fact or Fiction" number="3"/>
+    <card name="Force Spike" number="1"/>
+    <card name="Ghastly Demise" number="2"/>
+    <card name="Gush" number="2"/>
+    <card name="Innocent Blood" number="2"/>
+    <card name="Island" number="7"/>
+    <card name="Mishra's Factory" number="3"/>
+    <card name="Phyrexian Scuta" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Prohibit" number="2"/>
+    <card name="Psychatog" number="3"/>
+    <card name="Smother" number="2"/>
+    <card name="Standstill" number="4"/>
+    <card name="Swamp" number="5"/>
+    <card name="Tainted Isle" number="3"/>
+    <card name="Upheaval" number="1"/>
+    <card name="Zombie Infestation" number="2"/>
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Middle School Reanimator</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Akroma, Angel of Wrath" number="3"/>
+    <card name="Careful Study" number="4"/>
+    <card name="Daze" number="1"/>
+    <card name="Duress" number="4"/>
+    <card name="Entomb" number="4"/>
+    <card name="Exhume" number="4"/>
+    <card name="Gemstone Mine" number="1"/>
+    <card name="Island" number="5"/>
+    <card name="Lotus Petal" number="4"/>
+    <card name="Mystical Tutor" number="4"/>
+    <card name="Petradon" number="1"/>
+    <card name="Phantom Nishoba" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Putrid Imp" number="1"/>
+    <card name="Reanimate" number="4"/>
+    <card name="Rorix Bladewing" number="1"/>
+    <card name="Rushing River" number="1"/>
+    <card name="Show and Tell" number="1"/>
+    <card name="Spirit of the Night" number="1"/>
+    <card name="Strategic Planning" number="2"/>
+    <card name="Swamp" number="5"/>
+    <card name="Underground River" number="3"/>
+    <card name="Verdant Force" number="1"/>
+  </zone>
+</cockatrice_deck>

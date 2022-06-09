@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Middle School Madness</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Accumulated Knowledge" number="4"/>
+    <card name="Aether Burst" number="3"/>
+    <card name="Aquamoeba" number="3"/>
+    <card name="Arrogant Wurm" number="4"/>
+    <card name="Basking Rootwalla" number="4"/>
+    <card name="Call of the Herd" number="4"/>
+    <card name="Circular Logic" number="3"/>
+    <card name="Forest" number="8"/>
+    <card name="Gush" number="3"/>
+    <card name="Intuition" number="2"/>
+    <card name="Island" number="9"/>
+    <card name="Ray of Revelation" number="1"/>
+    <card name="Roar of the Wurm" number="1"/>
+    <card name="Squee, Goblin Nabob" number="1"/>
+    <card name="Tranquil Thicket" number="2"/>
+    <card name="Waterfront Bouncer" number="2"/>
+    <card name="Wild Mongrel" number="4"/>
+    <card name="Wonder" number="2"/>
+  </zone>
+</cockatrice_deck>
