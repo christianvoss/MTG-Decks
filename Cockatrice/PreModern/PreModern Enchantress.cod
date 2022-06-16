@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Enchantress</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Argothian Enchantress" number="4"/>
+    <card name="Aura of Silence" number="1"/>
+    <card name="Brushland" number="4"/>
+    <card name="Elephant Grass" number="4"/>
+    <card name="Enchantress's Presence" number="4"/>
+    <card name="Enlightened Tutor" number="2"/>
+    <card name="Exploration" number="4"/>
+    <card name="Forest" number="5"/>
+    <card name="Humility" number="1"/>
+    <card name="Karmic Justice" number="1"/>
+    <card name="Mirri's Guile" number="2"/>
+    <card name="Mountain" number="1"/>
+    <card name="Plains" number="2"/>
+    <card name="Replenish" number="2"/>
+    <card name="Sacred Mesa" number="1"/>
+    <card name="Serra's Sanctum" number="3"/>
+    <card name="Solitary Confinement" number="1"/>
+    <card name="Sterling Grove" number="4"/>
+    <card name="Wild Growth" number="4"/>
+    <card name="Windswept Heath" number="4"/>
+    <card name="Wooded Foothills" number="4"/>
+    <card name="Words of War" number="1"/>
+    <card name="Worship" number="1"/>
+  </zone>
+</cockatrice_deck>
