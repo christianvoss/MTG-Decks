@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Hidden Gems</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abundance" number="1"/>
+    <card name="Argothian Enchantress" number="2"/>
+    <card name="Coastal Tower" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Disrupt" number="2"/>
+    <card name="Flooded Strand" number="3"/>
+    <card name="Forest" number="2"/>
+    <card name="Hidden Gibbons" number="4"/>
+    <card name="Hidden Herd" number="2"/>
+    <card name="Hidden Predators" number="2"/>
+    <card name="Impulse" number="4"/>
+    <card name="Island" number="3"/>
+    <card name="Opal Archangel" number="1"/>
+    <card name="Opal Titan" number="1"/>
+    <card name="Plains" number="1"/>
+    <card name="Portent" number="2"/>
+    <card name="Prohibit" number="2"/>
+    <card name="Sterling Grove" number="3"/>
+    <card name="Swords to Plowshares" number="3"/>
+    <card name="Sylvan Library" number="2"/>
+    <card name="Treva's Ruins" number="4"/>
+    <card name="Veiled Crocodile" number="1"/>
+    <card name="Veiled Serpent" number="1"/>
+    <card name="Windswept Heath" number="2"/>
+    <card name="Wrath of God" number="2"/>
+    <card name="Yavimaya Coast" number="4"/>
+  </zone>
+</cockatrice_deck>
