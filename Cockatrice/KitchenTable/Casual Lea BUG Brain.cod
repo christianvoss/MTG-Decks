@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Lea BUG Brain</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="3"/>
+    <card name="Arcane Denial" number="2"/>
+    <card name="Archaeomancer" number="2"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Breeding Pool" number="1"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Drain Life" number="1"/>
+    <card name="Gaea's Blessing" number="1"/>
+    <card name="Ghostly Flicker" number="1"/>
+    <card name="Guttural Response" number="2"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Languish" number="1"/>
+    <card name="Leyline of Anticipation" number="1"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Misty Rainforest" number="4"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Necropotence" number="2"/>
+    <card name="Overgrown Tomb" number="1"/>
+    <card name="Palinchron" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Preordain" number="4"/>
+    <card name="Psychic Possession" number="2"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Tombstalker" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Wall of Blossoms" number="2"/>
+    <card name="Watery Grave" number="2"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>

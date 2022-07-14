@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Insidious Dreams</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Bloodstained Mire" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Draco" number="1"/>
+    <card name="Duress" number="3"/>
+    <card name="Erratic Explosion" number="1"/>
+    <card name="Fact or Fiction" number="2"/>
+    <card name="Hypnotic Specter" number="3"/>
+    <card name="Impulse" number="4"/>
+    <card name="Insidious Dreams" number="2"/>
+    <card name="Island" number="1"/>
+    <card name="Island" number="2"/>
+    <card name="Lat-Nam's Legacy" number="3"/>
+    <card name="Lightning Bolt" number="4"/>
+    <card name="Mishra's Factory" number="4"/>
+    <card name="Mountain" number="1"/>
+    <card name="Phyrexian Arena" number="2"/>
+    <card name="Phyrexian Negator" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Prohibit" number="2"/>
+    <card name="Pyroblast" number="2"/>
+    <card name="Pyroclasm" number="2"/>
+    <card name="Swamp" number="2"/>
+    <card name="Tainted Isle" number="2"/>
+    <card name="Tainted Peak" number="2"/>
+    <card name="Terminate" number="2"/>
+    <card name="Volrath's Stronghold" number="1"/>
+  </zone>
+</cockatrice_deck>
