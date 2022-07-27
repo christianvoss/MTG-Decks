@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Leveler</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="3"/>
+    <card name="Abundance" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Duress" number="3"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Honden of Seeing Winds" number="1"/>
+    <card name="Impulse" number="4"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Living Wish" number="4"/>
+    <card name="Maelstrom Pulse" number="1"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Multani's Presence" number="1"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Night's Whisper" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Spell Pierce" number="2"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Sylvan Library" number="2"/>
+    <card name="Tombstalker" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Wall of Roots" number="2"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>
