@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Mine Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="2"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Drown in the Loch" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Howling Mine" number="2"/>
+    <card name="Icy Manipulator" number="1"/>
+    <card name="Impulse" number="3"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Lochmere Serpent" number="2"/>
+    <card name="Maelstrom Pulse" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Mystical Teachings" number="2"/>
+    <card name="Noxious Revival" number="1"/>
+    <card name="Omen of the Sea" number="3"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Relic Barrier" number="1"/>
+    <card name="Sensei's Divining Top" number="2"/>
+    <card name="Spell Pierce" number="2"/>
+    <card name="Sunken Hollow" number="1"/>
+    <card name="Torrential Gearhulk" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Watery Grave" number="2"/>
+    <card name="Wilderness Reclamation" number="3"/>
+    <card name="Yawgmoth's Will" number="1"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>
