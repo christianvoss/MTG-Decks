@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Modern Caw Blade</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Counterbalance" number="2"/>
+    <card name="Deliberate" number="4"/>
+    <card name="Deprive" number="4"/>
+    <card name="Despark" number="2"/>
+    <card name="Dig Through Time" number="2"/>
+    <card name="Dowsing Dagger" number="2"/>
+    <card name="Drown in Sorrow" number="2"/>
+    <card name="Fallen Shinobi" number="1"/>
+    <card name="Fatal Push" number="3"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Grafted Wargear" number="2"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Mana Leak" number="2"/>
+    <card name="Moonblade Shinobi" number="1"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Plains" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Prairie Stream" number="3"/>
+    <card name="Sensei's Divining Top" number="2"/>
+    <card name="Squadron Hawk" number="4"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Swamp" number="1"/>
+    <card name="Treasure Cruise" number="2"/>
+    <card name="Yuriko, the Tiger's Shadow" number="2"/>
+  </zone>
+</cockatrice_deck>

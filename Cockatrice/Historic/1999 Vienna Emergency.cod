@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>1999 Vienna Emergency</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancient Tomb" number="3"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="City of Brass" number="4"/>
+    <card name="Dark Ritual" number="4"/>
+    <card name="Defense Grid" number="4"/>
+    <card name="Gemstone Mine" number="2"/>
+    <card name="Lion's Eye Diamond" number="4"/>
+    <card name="Lotus Petal" number="4"/>
+    <card name="Mana Vault" number="4"/>
+    <card name="Megrim" number="1"/>
+    <card name="Memory Jar" number="4"/>
+    <card name="Mox Diamond" number="4"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Tinker" number="4"/>
+    <card name="Underground River" number="3"/>
+    <card name="Underground Sea" number="4"/>
+    <card name="Vampiric Tutor" number="4"/>
+    <card name="Yawgmoth's Will" number="2"/>
+  </zone>
+</cockatrice_deck>

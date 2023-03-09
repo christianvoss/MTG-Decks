@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>1999 Pro Tour Chicago Brian Davis</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Contagion" number="4"/>
+    <card name="Corrupt" number="4"/>
+    <card name="Dark Ritual" number="4"/>
+    <card name="Demonic Consultation" number="3"/>
+    <card name="Drain Life" number="4"/>
+    <card name="Duress" number="4"/>
+    <card name="Necropotence" number="4"/>
+    <card name="Nevinyrral's Disk" number="2"/>
+    <card name="Skittering Skirge" number="2"/>
+    <card name="Spinning Darkness" number="3"/>
+    <card name="Swamp" number="18"/>
+    <card name="Unmask" number="4"/>
+    <card name="Wasteland" number="4"/>
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>1999 Pro Tour Chicago Bob Maher</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abundance" number="1"/>
+    <card name="Aura of Silence" number="1"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Disrupt" number="1"/>
+    <card name="Enlightened Tutor" number="4"/>
+    <card name="Faerie Conclave" number="1"/>
+    <card name="Flood Plain" number="3"/>
+    <card name="Forbid" number="1"/>
+    <card name="Force of Will" number="4"/>
+    <card name="Gaea's Blessing" number="2"/>
+    <card name="Impulse" number="3"/>
+    <card name="Ivory Mask" number="1"/>
+    <card name="Morphling" number="1"/>
+    <card name="Null Rod" number="1"/>
+    <card name="Oath of Druids" number="2"/>
+    <card name="Powder Keg" number="1"/>
+    <card name="Reflecting Pool" number="1"/>
+    <card name="Savannah" number="1"/>
+    <card name="Shard Phoenix" number="1"/>
+    <card name="Spike Feeder" number="1"/>
+    <card name="Swords to Plowshares" number="2"/>
+    <card name="Sylvan Library" number="1"/>
+    <card name="Trade Routes" number="1"/>
+    <card name="Treetop Village" number="3"/>
+    <card name="Tropical Island" number="4"/>
+    <card name="Tundra" number="4"/>
+    <card name="Volcanic Island" number="2"/>
+    <card name="Wasteland" number="4"/>
+  </zone>
+</cockatrice_deck>
