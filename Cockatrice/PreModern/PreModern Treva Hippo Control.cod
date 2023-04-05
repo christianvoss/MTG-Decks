@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>PreModern Treva Hippo Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abundance" number="1"/>
+    <card name="Argivian Find" number="1"/>
+    <card name="Black Vise" number="1"/>
+    <card name="Coastal Tower" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Enlightened Tutor" number="2"/>
+    <card name="Exalted Angel" number="2"/>
+    <card name="Exploration" number="2"/>
+    <card name="Faerie Conclave" number="2"/>
+    <card name="Flooded Strand" number="3"/>
+    <card name="Forest" number="1"/>
+    <card name="Gaea's Blessing" number="2"/>
+    <card name="Gush" number="3"/>
+    <card name="Impulse" number="3"/>
+    <card name="Intruder Alarm" number="1"/>
+    <card name="Island" number="4"/>
+    <card name="Mana Leak" number="2"/>
+    <card name="Plains" number="2"/>
+    <card name="Prohibit" number="2"/>
+    <card name="Questing Phelddagrif" number="2"/>
+    <card name="Sterling Grove" number="2"/>
+    <card name="Swords to Plowshares" number="4"/>
+    <card name="Sylvan Library" number="2"/>
+    <card name="Treetop Village" number="2"/>
+    <card name="Treva's Ruins" number="2"/>
+    <card name="Wall of Blossoms" number="2"/>
+    <card name="Windswept Heath" number="2"/>
+    <card name="Wrath of God" number="2"/>
+  </zone>
+</cockatrice_deck>

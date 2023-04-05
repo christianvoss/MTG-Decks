@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>1994 US Nationals Bo Bell</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Badlands" number="3"/>
+    <card name="Bayou" number="2"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="Braingeyser" number="1"/>
+    <card name="Control Magic" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Disintegrate" number="1"/>
+    <card name="Disrupting Scepter" number="2"/>
+    <card name="Fireball" number="1"/>
+    <card name="Forcefield" number="1"/>
+    <card name="Hypnotic Specter" number="1"/>
+    <card name="Island" number="3"/>
+    <card name="Mahamoti Djinn" number="2"/>
+    <card name="Mind Twist" number="4"/>
+    <card name="Mox Emerald" number="1"/>
+    <card name="Mox Jet" number="1"/>
+    <card name="Mox Pearl" number="1"/>
+    <card name="Mox Ruby" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Phantom Monster" number="1"/>
+    <card name="Regrowth" number="1"/>
+    <card name="Royal Assassin" number="2"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Sorceress Queen" number="2"/>
+    <card name="Swamp" number="3"/>
+    <card name="The Rack" number="3"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Timetwister" number="1"/>
+    <card name="Tropical Island" number="2"/>
+    <card name="Underground Sea" number="4"/>
+    <card name="Volcanic Island" number="3"/>
+    <card name="Wheel of Fortune" number="1"/>
+  </zone>
+</cockatrice_deck>

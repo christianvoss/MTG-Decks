@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual 4C-Win with Gifts</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="2"/>
+    <card name="Altar of the Brood" number="2"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Drown in the Loch" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Gifts Ungiven" number="2"/>
+    <card name="Helm of Awakening" number="2"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Preordain" number="4"/>
+    <card name="Reconstruction" number="1"/>
+    <card name="Regrowth" number="1"/>
+    <card name="Sensei's Divining Top" number="2"/>
+    <card name="Spell Pierce" number="2"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Surgical Extraction" number="1"/>
+    <card name="Tezzeret the Seeker" number="1"/>
+    <card name="Tombstalker" number="2"/>
+    <card name="Treasured Find" number="1"/>
+    <card name="Underworld Connections" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Vexing Shusher" number="2"/>
+    <card name="Wall of Roots" number="2"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Grixis Suns</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Approach of the Second Sun" number="1"/>
+    <card name="Bloodstained Mire" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Fatal Push" number="3"/>
+    <card name="Flooded Strand" number="2"/>
+    <card name="Illusory Angel" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Isochron Scepter" number="2"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mox Diamond" number="3"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Narset's Reversal" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="1"/>
+    <card name="Preordain" number="2"/>
+    <card name="Pyroclasm" number="2"/>
+    <card name="Raugrin Triome" number="1"/>
+    <card name="Red Elemental Blast" number="2"/>
+    <card name="Scalding Tarn" number="2"/>
+    <card name="Sensei's Divining Top" number="2"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Steam Vents" number="3"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Tidings" number="3"/>
+    <card name="Titans' Nest" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="1"/>
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Hippo Bant Jank</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Black Vise" number="1"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Counterbalance" number="1"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Enlightened Tutor" number="3"/>
+    <card name="Exploration" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Gush" number="3"/>
+    <card name="Guttural Response" number="2"/>
+    <card name="Intruder Alarm" number="1"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Lumbering Falls" number="2"/>
+    <card name="Nissa, Steward of Elements" number="1"/>
+    <card name="Oblivion Ring" number="2"/>
+    <card name="Polluted Delta" number="3"/>
+    <card name="Ponder" number="2"/>
+    <card name="Prairie Stream" number="2"/>
+    <card name="Preordain" number="2"/>
+    <card name="Questing Phelddagrif" number="2"/>
+    <card name="Sensei's Divining Top" number="2"/>
+    <card name="Suture Priest" number="1"/>
+    <card name="Swords to Plowshares" number="3"/>
+    <card name="Terminus" number="1"/>
+    <card name="Trade Routes" number="1"/>
+    <card name="Treasure Cruise" number="1"/>
+    <card name="Treetop Village" number="2"/>
+    <card name="Wall of Roots" number="2"/>
+    <card name="Wilderness Reclamation" number="2"/>
+  </zone>
+</cockatrice_deck>

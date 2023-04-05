@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Tex Talks BattleTech</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Argivian Restoration" number="2"/>
+    <card name="Born to Drive" number="2"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Counterspell" number="3"/>
+    <card name="Dovin's Veto" number="2"/>
+    <card name="Enlightened Tutor" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Futurist Sentinel" number="2"/>
+    <card name="Gaea's Blessing" number="2"/>
+    <card name="Hallowed Fountain" number="1"/>
+    <card name="Hotshot Mechanic" number="3"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Mech Hangar" number="3"/>
+    <card name="Mobilizer Mech" number="3"/>
+    <card name="Plains" number="2"/>
+    <card name="Prairie Stream" number="3"/>
+    <card name="Preordain" number="4"/>
+    <card name="Sensei's Divining Top" number="2"/>
+    <card name="Spell Pierce" number="2"/>
+    <card name="Surgehacker Mech" number="3"/>
+    <card name="Swords to Plowshares" number="2"/>
+    <card name="Thirst for Knowledge" number="2"/>
+    <card name="Thundersteel Colossus" number="1"/>
+    <card name="Treetop Village" number="2"/>
+    <card name="Wilderness Reclamation" number="1"/>
+  </zone>
+</cockatrice_deck>

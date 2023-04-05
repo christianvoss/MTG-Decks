@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>1995 The Deck pre-Ice Age</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="Braingeyser" number="1"/>
+    <card name="City of Brass" number="4"/>
+    <card name="Counterspell" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Disenchant" number="4"/>
+    <card name="Disrupting Scepter" number="2"/>
+    <card name="Island" number="4"/>
+    <card name="Ivory Tower" number="1"/>
+    <card name="Jayemdae Tome" number="1"/>
+    <card name="Library of Alexandria" number="1"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mind Twist" number="1"/>
+    <card name="Moat" number="2"/>
+    <card name="Mox Emerald" number="1"/>
+    <card name="Mox Jet" number="1"/>
+    <card name="Mox Pearl" number="1"/>
+    <card name="Mox Ruby" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Plains" number="3"/>
+    <card name="Recall" number="1"/>
+    <card name="Red Elemental Blast" number="2"/>
+    <card name="Regrowth" number="1"/>
+    <card name="Serra Angel" number="2"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Strip Mine" number="3"/>
+    <card name="Swords to Plowshares" number="4"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Timetwister" number="1"/>
+    <card name="Tundra" number="4"/>
+    <card name="Volcanic Island" number="2"/>
+  </zone>
+</cockatrice_deck>

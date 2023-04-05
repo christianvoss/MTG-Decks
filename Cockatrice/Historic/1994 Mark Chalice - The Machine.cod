@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>1994 Mark Chalice - The Machine</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Animate Dead" number="3"/>
+    <card name="Balance" number="1"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="Candelabra of Tawnos" number="1"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Disenchant" number="2"/>
+    <card name="Hell's Caretaker" number="3"/>
+    <card name="Island" number="2"/>
+    <card name="Jalum Tome" number="2"/>
+    <card name="Library of Alexandria" number="1"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mind Twist" number="1"/>
+    <card name="Mishra's Factory" number="4"/>
+    <card name="Mishra's Workshop" number="1"/>
+    <card name="Mox Jet" number="1"/>
+    <card name="Mox Pearl" number="1"/>
+    <card name="Mox Ruby" number="1"/>
+    <card name="Mox Sapphire" number="1"/>
+    <card name="Scrubland" number="3"/>
+    <card name="Swords to Plowshares" number="4"/>
+    <card name="Tetravus" number="4"/>
+    <card name="Time Walk" number="1"/>
+    <card name="Triskelion" number="4"/>
+    <card name="Tundra" number="4"/>
+    <card name="Underground Sea" number="4"/>
+  </zone>
+</cockatrice_deck>

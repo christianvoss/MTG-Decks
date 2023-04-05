@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>1994 Granville Wright - Explosion Deck</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Recall" number="1"/>
+    <card name="Berserk" number="1"/>
+    <card name="Birds of Paradise" number="3"/>
+    <card name="Black Lotus" number="1"/>
+    <card name="Blood Lust" number="4"/>
+    <card name="Chain Lightning" number="2"/>
+    <card name="City of Brass" number="2"/>
+    <card name="Flying Men" number="3"/>
+    <card name="Forest" number="1"/>
+    <card name="Giant Growth" number="4"/>
+    <card name="Island" number="2"/>
+    <card name="Kird Ape" number="4"/>
+    <card name="Lightning Bolt" number="4"/>
+    <card name="Mox Emerald" number="1"/>
+    <card name="Mox Pearl" number="1"/>
+    <card name="Mox Ruby" number="1"/>
+    <card name="Pendelhaven" number="1"/>
+    <card name="Regrowth" number="1"/>
+    <card name="Scryb Sprites" number="4"/>
+    <card name="Serendib Efreet" number="3"/>
+    <card name="Strip Mine" number="1"/>
+    <card name="Taiga" number="3"/>
+    <card name="Timetwister" number="1"/>
+    <card name="Tropical Island" number="3"/>
+    <card name="Unstable Mutation" number="4"/>
+    <card name="Volcanic Island" number="3"/>
+    <card name="Wheel of Fortune" number="1"/>
+  </zone>
+</cockatrice_deck>

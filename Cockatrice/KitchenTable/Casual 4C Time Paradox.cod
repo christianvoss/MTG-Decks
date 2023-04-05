@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual 4C Time Paradox</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Breeding Pool" number="2"/>
+    <card name="Coretapper" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Drown in the Loch" number="3"/>
+    <card name="Duress" number="2"/>
+    <card name="Energy Chamber" number="2"/>
+    <card name="Gifts Ungiven" number="2"/>
+    <card name="Guttural Response" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Magistrate's Scepter" number="1"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Preordain" number="4"/>
+    <card name="Reconstruction" number="2"/>
+    <card name="Seat of the Synod" number="4"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Surge Node" number="2"/>
+    <card name="Tezzeret the Seeker" number="1"/>
+    <card name="Thirst for Knowledge" number="2"/>
+    <card name="Thoughtcast" number="2"/>
+    <card name="Thrummingbird" number="2"/>
+    <card name="Voltaic Key" number="2"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>

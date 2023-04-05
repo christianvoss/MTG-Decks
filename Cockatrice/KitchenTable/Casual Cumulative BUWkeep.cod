@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Cumulative BUWkeep</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Altar of Dementia" number="1"/>
+    <card name="Anguished Unmaking" number="2"/>
+    <card name="Ashnod's Altar" number="1"/>
+    <card name="Blue Sun's Zenith" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Butcher Ghoul" number="1"/>
+    <card name="Dark Depths" number="1"/>
+    <card name="Decree of Silence" number="1"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Despark" number="2"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Dovin's Veto" number="2"/>
+    <card name="Drowned Catacomb" number="2"/>
+    <card name="Enlightened Tutor" number="4"/>
+    <card name="Flooded Strand" number="3"/>
+    <card name="Glacial Fortress" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Merchant Scroll" number="1"/>
+    <card name="Mystic Remora" number="3"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Phyrexian Etchings" number="1"/>
+    <card name="Phyrexian Soulgorger" number="2"/>
+    <card name="Polluted Delta" number="3"/>
+    <card name="Ponder" number="1"/>
+    <card name="Prairie Stream" number="3"/>
+    <card name="Reality Twist" number="1"/>
+    <card name="Solemnity" number="2"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Swords to Plowshares" number="3"/>
+    <card name="Treasure Cruise" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+  </zone>
+</cockatrice_deck>
