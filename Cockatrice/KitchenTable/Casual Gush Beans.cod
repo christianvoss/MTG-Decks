@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Gush Beans</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="3"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Exploration" number="2"/>
+    <card name="Fatal Push" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Gurmag Angler" number="1"/>
+    <card name="Gush" number="4"/>
+    <card name="Guttural Response" number="2"/>
+    <card name="Island" number="1"/>
+    <card name="Island" number="1"/>
+    <card name="Misdirection" number="3"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Spell Pierce" number="2"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Tangled Islet" number="2"/>
+    <card name="Time Warp" number="2"/>
+    <card name="Tolarian Terror" number="2"/>
+    <card name="Up the Beanstalk" number="2"/>
+    <card name="Waterspout Djinn" number="2"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>
