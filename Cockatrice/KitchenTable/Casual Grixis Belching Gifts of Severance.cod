@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Grixis Belching Gifts of Severance</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Expressive Iteration" number="4"/>
+    <card name="Flooded Strand" number="2"/>
+    <card name="Foil" number="2"/>
+    <card name="Gifts Ungiven" number="2"/>
+    <card name="Goblin Charbelcher" number="1"/>
+    <card name="Haughty Djinn" number="2"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Lightning Bolt" number="3"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mana Leak" number="2"/>
+    <card name="Mana Severance" number="1"/>
+    <card name="Mission Briefing" number="1"/>
+    <card name="Mox Diamond" number="3"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Regrowth" number="1"/>
+    <card name="Scalding Tarn" number="2"/>
+    <card name="See the Truth" number="3"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Steam Vents" number="3"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Tinker" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Wilderness Reclamation" number="1"/>
+    <card name="Zagoth Triome" number="1"/>
+  </zone>
+</cockatrice_deck>

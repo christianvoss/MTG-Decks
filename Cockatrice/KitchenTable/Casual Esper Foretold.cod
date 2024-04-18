@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Esper Foretold</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Vision" number="4"/>
+    <card name="As Foretold" number="3"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Counterbalance" number="2"/>
+    <card name="Counterspell" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Hallowed Fountain" number="2"/>
+    <card name="Helm of Obedience" number="1"/>
+    <card name="Island" number="2"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Library of Alexandria" number="1"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mind Twist" number="1"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Prairie Stream" number="2"/>
+    <card name="Preordain" number="4"/>
+    <card name="Rest in Peace" number="1"/>
+    <card name="Sensei's Divining Top" number="3"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Swords to Plowshares" number="3"/>
+    <card name="Terminus" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Vindicate" number="3"/>
+    <card name="Wall of Resistance" number="2"/>
+    <card name="Watery Grave" number="1"/>
+  </zone>
+</cockatrice_deck>
