@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG As Foretold</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="2"/>
+    <card name="Ancestral Vision" number="4"/>
+    <card name="As Foretold" number="2"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Counterspell" number="2"/>
+    <card name="Crashing Footfalls" number="3"/>
+    <card name="Dark Depths" number="1"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Flooded Strand" number="3"/>
+    <card name="Hour of Promise" number="1"/>
+    <card name="Island" number="2"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Maelstrom Pulse" number="1"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Polluted Delta" number="3"/>
+    <card name="Ponder" number="4"/>
+    <card name="Regrowth" number="2"/>
+    <card name="Rimewood Falls" number="2"/>
+    <card name="Spelunking" number="1"/>
+    <card name="Sunken Hollow" number="1"/>
+    <card name="Terror" number="2"/>
+    <card name="Thespian's Stage" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Wall of Blossoms" number="2"/>
+    <card name="Wall of Roots" number="2"/>
+    <card name="Watery Grave" number="2"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>

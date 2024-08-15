@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Gifted Time-Shop</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="3"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Counterspell" number="2"/>
+    <card name="Crucible of Worlds" number="1"/>
+    <card name="Damnation" number="1"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Flooded Strand" number="2"/>
+    <card name="Howling Mine" number="2"/>
+    <card name="Icy Manipulator" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Maelstrom Pulse" number="1"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mishra's Workshop" number="4"/>
+    <card name="Misty Rainforest" number="2"/>
+    <card name="Mox Diamond" number="3"/>
+    <card name="Mystic Sanctuary" number="1"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Notion Thief" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="3"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Spell Pierce" number="2"/>
+    <card name="Steel Hellkite" number="2"/>
+    <card name="Strip Mine" number="1"/>
+    <card name="Time Vault" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Voltaic Key" number="1"/>
+    <card name="Watery Grave" number="3"/>
+    <card name="Wilderness Reclamation" number="1"/>
+  </zone>
+</cockatrice_deck>

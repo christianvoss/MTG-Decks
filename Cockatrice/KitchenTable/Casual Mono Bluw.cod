@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Mono Blue</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Bad River" number="4"/>
+    <card name="Boomerang" number="2"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Conundrum Sphinx" number="2"/>
+    <card name="Counterbalance" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Delver of Secrets" number="4"/>
+    <card name="Flood Plain" number="4"/>
+    <card name="Gush" number="4"/>
+    <card name="Inkwell Leviathan" number="1"/>
+    <card name="Island" number="9"/>
+    <card name="Man-o'-War" number="2"/>
+    <card name="Misdirection" number="3"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Ponder" number="4"/>
+    <card name="Psionic Blast" number="4"/>
+    <card name="Sensei's Divining Top" number="3"/>
+    <card name="Tempest Djinn" number="2"/>
+    <card name="Tinker" number="1"/>
+  </zone>
+</cockatrice_deck>
