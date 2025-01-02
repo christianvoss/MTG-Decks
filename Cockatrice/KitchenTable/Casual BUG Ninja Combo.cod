@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Ninja Combo</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Blightsteel Colossus" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Breeding Pool" number="1"/>
+    <card name="Changeling Outcast" number="3"/>
+    <card name="Counterbalance" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Draco" number="1"/>
+    <card name="Drown in the Loch" number="2"/>
+    <card name="Gush" number="1"/>
+    <card name="Island" number="2"/>
+    <card name="Island" number="1"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Misdirection" number="4"/>
+    <card name="Misty Rainforest" number="4"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Nicol Bolas" number="1"/>
+    <card name="Ornithopter" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Satoru Umezawa" number="2"/>
+    <card name="Sensei's Divining Top" number="3"/>
+    <card name="Sunken Hollow" number="1"/>
+    <card name="Treasure Cruise" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Watery Grave" number="2"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Yuriko, the Tiger's Shadow" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>

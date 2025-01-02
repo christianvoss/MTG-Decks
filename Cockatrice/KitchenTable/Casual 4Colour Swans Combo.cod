@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual 4Colour Swans Combo</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Bloodstained Mire" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Chain of Plasma" number="1"/>
+    <card name="Conflagrate" number="1"/>
+    <card name="Counterbalance" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Dack Fayden" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Expressive Iteration" number="4"/>
+    <card name="Fling" number="1"/>
+    <card name="Flooded Strand" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Lightning Bolt" number="4"/>
+    <card name="Mikokoro, Center of the Sea" number="1"/>
+    <card name="Mystic Sanctuary" number="1"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Notion Thief" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Psychatog" number="2"/>
+    <card name="Psychic Possession" number="2"/>
+    <card name="Rimewood Falls" number="1"/>
+    <card name="Scalding Tarn" number="1"/>
+    <card name="Sensei's Divining Top" number="2"/>
+    <card name="Starstorm" number="1"/>
+    <card name="Steam Vents" number="4"/>
+    <card name="Sunken Hollow" number="1"/>
+    <card name="Swans of Bryn Argoll" number="2"/>
+    <card name="Terminate" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Watery Grave" number="2"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Yawgmoth's Bargain" number="1"/>
+  </zone>
+</cockatrice_deck>
