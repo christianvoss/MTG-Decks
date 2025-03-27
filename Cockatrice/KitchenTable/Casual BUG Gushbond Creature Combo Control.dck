@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Gushbond Creature Combo Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abrupt Decay" number="2"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Counterspell" number="1"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Fastbond" number="1"/>
+    <card name="Ghastly Demise" number="2"/>
+    <card name="Gush" number="4"/>
+    <card name="High Tide" number="1"/>
+    <card name="Island" number="1"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Lorescale Coatl" number="3"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Merchant Scroll" number="1"/>
+    <card name="Misty Rainforest" number="2"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Narset's Reversal" number="3"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Quirion Dryad" number="2"/>
+    <card name="Scalding Tarn" number="2"/>
+    <card name="Tendrils of Agony" number="1"/>
+    <card name="Tropical Island" number="2"/>
+    <card name="Underground Sea" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Volcanic Island" number="2"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Yawgmoth's Will" number="1"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>

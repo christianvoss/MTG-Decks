@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Elves Combo</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="City of Brass" number="4"/>
+    <card name="Elvish Mystic" number="4"/>
+    <card name="Elvish Visionary" number="4"/>
+    <card name="Fireball" number="2"/>
+    <card name="Fires of Yavimaya" number="4"/>
+    <card name="Forest" number="4"/>
+    <card name="Fyndhorn Elves" number="4"/>
+    <card name="Gemstone Mine" number="4"/>
+    <card name="Llanowar Elves" number="4"/>
+    <card name="Llanowar Sentinel" number="4"/>
+    <card name="Merchant Scroll" number="2"/>
+    <card name="Nomadic Elf" number="2"/>
+    <card name="Overrun" number="2"/>
+    <card name="Paradoxical Outcome" number="4"/>
+    <card name="Priest of Titania" number="4"/>
+    <card name="Quirion Elves" number="2"/>
+    <card name="Quirion Ranger" number="3"/>
+    <card name="Thran Quarry" number="3"/>
+  </zone>
+</cockatrice_deck>
