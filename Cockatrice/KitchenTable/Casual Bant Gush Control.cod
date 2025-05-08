@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Bant Gush Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Brainstorm" number="1"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Dovin's Veto" number="2"/>
+    <card name="Exploration" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Force of Will" number="2"/>
+    <card name="Gush" number="4"/>
+    <card name="Island" number="3"/>
+    <card name="Misty Rainforest" number="2"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Planar Genesis" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Prairie Stream" number="3"/>
+    <card name="Spell Snare" number="2"/>
+    <card name="Swords to Plowshares" number="3"/>
+    <card name="Thing in the Ice" number="4"/>
+    <card name="Tireless Tracker" number="4"/>
+    <card name="Treasure Cruise" number="1"/>
+    <card name="Up the Beanstalk" number="2"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Windswept Heath" number="2"/>
+  </zone>
+</cockatrice_deck>

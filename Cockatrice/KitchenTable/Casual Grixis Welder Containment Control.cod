@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Grixis Welder Containment Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Brainstorm" number="1"/>
+    <card name="Containment Construct" number="3"/>
+    <card name="Courier's Capsule" number="2"/>
+    <card name="Dack Fayden" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Goblin Welder" number="3"/>
+    <card name="Inkwell Leviathan" number="1"/>
+    <card name="Island" number="2"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mana Vault" number="1"/>
+    <card name="Mox Diamond" number="3"/>
+    <card name="Myr Battlesphere" number="1"/>
+    <card name="Notion Thief" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Pyroblast" number="2"/>
+    <card name="Scalding Tarn" number="4"/>
+    <card name="Seat of the Synod" number="4"/>
+    <card name="Sensei's Divining Top" number="2"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Spell Pierce" number="2"/>
+    <card name="Steam Vents" number="2"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Tinker" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Watery Grave" number="2"/>
+  </zone>
+</cockatrice_deck>
