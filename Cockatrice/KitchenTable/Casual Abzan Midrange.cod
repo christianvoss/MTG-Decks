@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Abzan Midrange</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Bad River" number="3"/>
+    <card name="Despark" number="2"/>
+    <card name="Duress" number="4"/>
+    <card name="Grasslands" number="2"/>
+    <card name="Haunted Mire" number="3"/>
+    <card name="Hymn to Tourach" number="4"/>
+    <card name="Hypnotic Specter" number="2"/>
+    <card name="Ramunap Excavator" number="2"/>
+    <card name="Regrowth" number="2"/>
+    <card name="Sin Collector" number="2"/>
+    <card name="Snowfield Sinkhole" number="4"/>
+    <card name="Strip Mine" number="4"/>
+    <card name="Sylvan Advocate" number="3"/>
+    <card name="Tainted Field" number="4"/>
+    <card name="Tainted Wood" number="3"/>
+    <card name="Thought-Knot Seer" number="4"/>
+    <card name="Tireless Tracker" number="4"/>
+    <card name="Underworld Connections" number="2"/>
+    <card name="Vindicate" number="4"/>
+    <card name="Windswept Heath" number="2"/>
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Grixis Gate Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Counterspell" number="4"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dimir Guildgate" number="2"/>
+    <card name="Disdainful Stroke" number="2"/>
+    <card name="Gates Ablaze" number="2"/>
+    <card name="Gateway Plaza" number="4"/>
+    <card name="Ghastly Demise" number="2"/>
+    <card name="Gond Gate" number="4"/>
+    <card name="Guild Summit" number="3"/>
+    <card name="Izzet Guildgate" number="4"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Narset's Reversal" number="2"/>
+    <card name="Planar Genesis" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Sea Gate" number="4"/>
+    <card name="Shark Typhoon" number="3"/>
+    <card name="Simic Guildgate" number="2"/>
+    <card name="Soldier of Fortune" number="1"/>
+    <card name="Terminate" number="2"/>
+    <card name="Thing in the Ice" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+  </zone>
+</cockatrice_deck>
