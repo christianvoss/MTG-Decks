@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Esper Mentor</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Vision" number="4"/>
+    <card name="As Foretold" number="4"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Despark" number="3"/>
+    <card name="Dispel" number="2"/>
+    <card name="Dovin's Veto" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Island" number="3"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Monastery Mentor" number="3"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="3"/>
+    <card name="Prairie Stream" number="3"/>
+    <card name="Profane Tutor" number="2"/>
+    <card name="Render Silent" number="2"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Swords to Plowshares" number="4"/>
+    <card name="Vindicate" number="2"/>
+    <card name="Xander's Lounge" number="2"/>
+  </zone>
+</cockatrice_deck>

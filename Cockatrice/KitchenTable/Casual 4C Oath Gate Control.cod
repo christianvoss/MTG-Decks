@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual 4C Oath Gate Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Aetherling" number="3"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dimir Guildgate" number="2"/>
+    <card name="Disdainful Stroke" number="2"/>
+    <card name="Drogskol Reaver" number="2"/>
+    <card name="Gaea's Blessing" number="2"/>
+    <card name="Gates Ablaze" number="2"/>
+    <card name="Gateway Plaza" number="4"/>
+    <card name="Go for the Throat" number="2"/>
+    <card name="Gond Gate" number="4"/>
+    <card name="Guild Summit" number="2"/>
+    <card name="Heartless Act" number="2"/>
+    <card name="Inkwell Leviathan" number="2"/>
+    <card name="Izzet Guildgate" number="2"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Lat-Nam's Legacy" number="4"/>
+    <card name="Oath of Druids" number="3"/>
+    <card name="Planar Genesis" number="4"/>
+    <card name="Sea Gate" number="4"/>
+    <card name="Simic Guildgate" number="2"/>
+    <card name="Simic Guildgate" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+  </zone>
+</cockatrice_deck>

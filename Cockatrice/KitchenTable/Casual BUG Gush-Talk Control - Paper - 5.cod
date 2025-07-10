@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Gush-Talk Control - Paper - 5</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Brainstorm" number="1"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Cryptic Serpent" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Exploration" number="2"/>
+    <card name="Gush" number="4"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Lochmere Serpent" number="2"/>
+    <card name="Maelstrom Pulse" number="2"/>
+    <card name="Misdirection" number="2"/>
+    <card name="Misty Rainforest" number="3"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Planar Genesis" number="4"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Snow-Covered Island" number="3"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Tolarian Terror" number="2"/>
+    <card name="Torrential Gearhulk" number="2"/>
+    <card name="Up the Beanstalk" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Victim of Night" number="4"/>
+    <card name="Watery Grave" number="2"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>

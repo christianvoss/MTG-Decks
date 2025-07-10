@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Grixis Ninjutsu Aggro Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Blightsteel Colossus" number="1"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Changeling Outcast" number="3"/>
+    <card name="Counterspell" number="2"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Expressive Iteration" number="4"/>
+    <card name="Faerie Conclave" number="2"/>
+    <card name="Island" number="3"/>
+    <card name="Kaito, Dancing Shadow" number="2"/>
+    <card name="Marang River Regent" number="2"/>
+    <card name="Mystic Sanctuary" number="1"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Ornithopter" number="3"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Preordain" number="4"/>
+    <card name="Progenitus" number="1"/>
+    <card name="Remove Soul" number="2"/>
+    <card name="Runescale Stormbrood" number="4"/>
+    <card name="Satoru Umezawa" number="2"/>
+    <card name="Scalding Tarn" number="4"/>
+    <card name="Shriekmaw" number="2"/>
+    <card name="Steam Vents" number="3"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Terminate" number="2"/>
+    <card name="Treasure Cruise" number="1"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Yuriko, the Tiger's Shadow" number="2"/>
+  </zone>
+</cockatrice_deck>

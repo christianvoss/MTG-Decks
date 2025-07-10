@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Grixis Thieves - Paper</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Brainstorm" number="1"/>
+    <card name="Containment Construct" number="3"/>
+    <card name="Counterflux" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Dack Fayden" number="2"/>
+    <card name="Demonic Pact" number="2"/>
+    <card name="Donate" number="2"/>
+    <card name="Expressive Iteration" number="3"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Heart of Kiran" number="2"/>
+    <card name="Island" number="1"/>
+    <card name="Island" number="1"/>
+    <card name="Island" number="1"/>
+    <card name="Island" number="2"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Mox Diamond" number="3"/>
+    <card name="Mystic Sanctuary" number="1"/>
+    <card name="Notion Thief" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Runescale Stormbrood" number="3"/>
+    <card name="Sol Ring" number="1"/>
+    <card name="Steam Vents" number="3"/>
+    <card name="Terminate" number="4"/>
+    <card name="Watery Grave" number="3"/>
+  </zone>
+</cockatrice_deck>
