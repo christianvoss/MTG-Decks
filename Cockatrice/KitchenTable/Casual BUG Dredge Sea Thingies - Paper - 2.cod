@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Dredge Sea Thingies - Paper - 2</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancient Craving" number="2"/>
+    <card name="Arixmethes, Slumbering Isle" number="2"/>
+    <card name="Bad River" number="4"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Concentrate" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Crux of Fate" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Flood Plain" number="4"/>
+    <card name="Island" number="2"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Lat-Nam's Legacy" number="2"/>
+    <card name="Marang River Regent" number="2"/>
+    <card name="Mystic Sanctuary" number="1"/>
+    <card name="Negate" number="2"/>
+    <card name="Planar Genesis" number="4"/>
+    <card name="Power Word Kill" number="4"/>
+    <card name="Stormtide Leviathan" number="2"/>
+    <card name="Titans' Nest" number="3"/>
+    <card name="Tropical Island" number="4"/>
+    <card name="Underground Sea" number="3"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Wall of Roots" number="2"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Windswept Heath" number="2"/>
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Mono Blue Aggro Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Ancestral Vision" number="4"/>
+    <card name="As Foretold" number="3"/>
+    <card name="Bad River" number="4"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Delver of Secrets" number="4"/>
+    <card name="Flood Plain" number="4"/>
+    <card name="Haughty Djinn" number="2"/>
+    <card name="Inevitable Betrayal" number="2"/>
+    <card name="Island" number="8"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Ponder" number="4"/>
+    <card name="Psionic Blast" number="4"/>
+    <card name="Pteramander" number="2"/>
+    <card name="Remove Soul" number="4"/>
+    <card name="Tempest Djinn" number="2"/>
+    <card name="Thing in the Ice" number="3"/>
+  </zone>
+</cockatrice_deck>
