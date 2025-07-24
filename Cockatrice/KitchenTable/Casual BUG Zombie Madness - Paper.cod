@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Zombie Madness - Paper</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Accumulated Knowledge" number="4"/>
+    <card name="Arrogant Wurm" number="4"/>
+    <card name="Bad River" number="2"/>
+    <card name="Basking Rootwalla" number="4"/>
+    <card name="Dark Withering" number="2"/>
+    <card name="Deep Analysis" number="3"/>
+    <card name="Fetid Pools" number="1"/>
+    <card name="Flood Plain" number="3"/>
+    <card name="Forbid" number="2"/>
+    <card name="Forest" number="1"/>
+    <card name="Grasslands" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Merfolk Looter" number="4"/>
+    <card name="Murderous Compulsion" number="2"/>
+    <card name="Overgrown Tomb" number="1"/>
+    <card name="Roar of the Wurm" number="4"/>
+    <card name="Squee, Goblin Nabob" number="3"/>
+    <card name="Tainted Wood" number="2"/>
+    <card name="Tangled Islet" number="3"/>
+    <card name="Waterfront Bouncer" number="4"/>
+    <card name="Watery Grave" number="1"/>
+    <card name="Wonder" number="2"/>
+    <card name="Yavimaya Coast" number="2"/>
+    <card name="Zombie Infestation" number="2"/>
+  </zone>
+</cockatrice_deck>
