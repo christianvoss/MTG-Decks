@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual UB Omnishow</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Counterspell" number="4"/>
+    <card name="Crystal Vein" number="4"/>
+    <card name="Diabolic Vision" number="2"/>
+    <card name="Dispel" number="2"/>
+    <card name="Flooded Strand" number="3"/>
+    <card name="Griselbrand" number="3"/>
+    <card name="Gush" number="1"/>
+    <card name="Impulse" number="4"/>
+    <card name="Island" number="4"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Narset, Parter of Veils" number="1"/>
+    <card name="Omniscience" number="4"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Profane Tutor" number="2"/>
+    <card name="Show and Tell" number="4"/>
+    <card name="Sunken Hollow" number="2"/>
+    <card name="Tendrils of Agony" number="1"/>
+    <card name="Terror" number="4"/>
+    <card name="Uncovered Clues" number="4"/>
+    <card name="Watery Grave" number="2"/>
+  </zone>
+</cockatrice_deck>
