@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Legacy Dredge</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Bloodghast" number="4"/>
+    <card name="Breakthrough" number="3"/>
+    <card name="Bridge from Below" number="4"/>
+    <card name="Cabal Therapy" number="4"/>
+    <card name="Careful Study" number="4"/>
+    <card name="Cephalid Coliseum" number="4"/>
+    <card name="Cephalid Sage" number="1"/>
+    <card name="City of Brass" number="4"/>
+    <card name="Dakmor Salvage" number="2"/>
+    <card name="Dread Return" number="3"/>
+    <card name="Flame-Kin Zealot" number="1"/>
+    <card name="Gemstone Mine" number="1"/>
+    <card name="Golgari Grave-Troll" number="4"/>
+    <card name="Golgari Thug" number="2"/>
+    <card name="Ichorid" number="3"/>
+    <card name="Narcomoeba" number="4"/>
+    <card name="Putrid Imp" number="4"/>
+    <card name="Stinkweed Imp" number="4"/>
+    <card name="Undiscovered Paradise" number="4"/>
+  </zone>
+</cockatrice_deck>

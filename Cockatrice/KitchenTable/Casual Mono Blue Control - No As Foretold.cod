@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Mono Blue Control - No As Foretold</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Accumulated Knowledge" number="4"/>
+    <card name="Bad River" number="4"/>
+    <card name="Blue Elemental Blast" number="2"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Control Magic" number="2"/>
+    <card name="Deprive" number="2"/>
+    <card name="Flood Plain" number="4"/>
+    <card name="Island" number="2"/>
+    <card name="Island" number="7"/>
+    <card name="Island" number="1"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Preordain" number="3"/>
+    <card name="Scavenged Brawler" number="2"/>
+    <card name="Shield Sphere" number="3"/>
+    <card name="Snap" number="3"/>
+    <card name="Steel Hellkite" number="2"/>
+    <card name="Thing in the Ice" number="3"/>
+    <card name="Tinker" number="2"/>
+    <card name="Tolarian Terror" number="2"/>
+    <card name="Wall of Tears" number="2"/>
+  </zone>
+</cockatrice_deck>

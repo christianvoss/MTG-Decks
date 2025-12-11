@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Lesson Earthbend Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Accumulate Wisdom" number="4"/>
+    <card name="Ba Sing Se" number="3"/>
+    <card name="Breeding Pool" number="2"/>
+    <card name="Dai Li Indoctrination" number="4"/>
+    <card name="Earthbending Lesson" number="3"/>
+    <card name="Island" number="1"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Maelstrom Pulse" number="2"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Misty Rainforest" number="3"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Origin of Metalbending" number="2"/>
+    <card name="Ozai's Cruelty" number="2"/>
+    <card name="Planar Genesis" number="4"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Power Word Kill" number="4"/>
+    <card name="Serpent of the Pass" number="3"/>
+    <card name="Spirit Water Revival" number="1"/>
+    <card name="Terrasymbiosis" number="3"/>
+    <card name="Watery Grave" number="3"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="2"/>
+  </zone>
+</cockatrice_deck>

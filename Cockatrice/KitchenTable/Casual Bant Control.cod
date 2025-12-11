@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Bant Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Breeding Pool" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Deprive" number="2"/>
+    <card name="Dovin's Veto" number="2"/>
+    <card name="Exalted Angel" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Gaea's Blessing" number="1"/>
+    <card name="Gaseous Form" number="2"/>
+    <card name="Impulse" number="2"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Planar Genesis" number="4"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Prairie Stream" number="4"/>
+    <card name="Regrowth" number="2"/>
+    <card name="Swords to Plowshares" number="4"/>
+    <card name="Tangled Islet" number="2"/>
+    <card name="The Reality Chip" number="2"/>
+    <card name="Tolarian Terror" number="2"/>
+    <card name="Wall of Roots" number="3"/>
+    <card name="Waterbending Scroll" number="3"/>
+    <card name="Wilderness Reclamation" number="2"/>
+  </zone>
+</cockatrice_deck>

@@ -1,32 +1,32 @@
-<?xml version="1.0" ?>
-<cockatrice_deck>
-  <deckname>Casual BUG Dredge Sea Thingies - Paper - 2</deckname>
-  <comments>Converted from Forge</comments>
-  <zone name="main">
-    <card name="Ancient Craving" number="2"/>
-    <card name="Arixmethes, Slumbering Isle" number="2"/>
-    <card name="Bad River" number="4"/>
-    <card name="Brainstorm" number="1"/>
-    <card name="Concentrate" number="2"/>
-    <card name="Counterspell" number="4"/>
-    <card name="Crux of Fate" number="2"/>
-    <card name="Demonic Tutor" number="1"/>
-    <card name="Flood Plain" number="4"/>
-    <card name="Island" number="2"/>
-    <card name="Jace, the Mind Sculptor" number="2"/>
-    <card name="Lat-Nam's Legacy" number="2"/>
-    <card name="Marang River Regent" number="2"/>
-    <card name="Mystic Sanctuary" number="1"/>
-    <card name="Negate" number="2"/>
-    <card name="Planar Genesis" number="4"/>
-    <card name="Power Word Kill" number="4"/>
-    <card name="Stormtide Leviathan" number="2"/>
-    <card name="Titans' Nest" number="3"/>
-    <card name="Tropical Island" number="4"/>
-    <card name="Underground Sea" number="3"/>
-    <card name="Vampiric Tutor" number="1"/>
-    <card name="Wall of Roots" number="2"/>
-    <card name="Wilderness Reclamation" number="2"/>
-    <card name="Windswept Heath" number="2"/>
-  </zone>
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Casual BUG Dredge Sea Thingies - Paper - 2</deckname>
+    <comments>Converted from Forge</comments>
+    <zone name="main">
+        <card number="2" name="Ancient Craving"/>
+        <card number="2" name="Arixmethes, Slumbering Isle"/>
+        <card number="4" name="Bad River"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="2" name="Concentrate"/>
+        <card number="4" name="Counterspell"/>
+        <card number="2" name="Crux of Fate"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="4" name="Flood Plain"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Jace, the Mind Sculptor"/>
+        <card number="2" name="Lat-Nam's Legacy"/>
+        <card number="1" name="Mystic Sanctuary"/>
+        <card number="2" name="Negate"/>
+        <card number="4" name="Planar Genesis"/>
+        <card number="4" name="Power Word Kill"/>
+        <card number="2" name="Stormtide Leviathan"/>
+        <card number="3" name="Titans' Nest"/>
+        <card number="4" name="Tropical Island"/>
+        <card number="3" name="Underground Sea"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="2" name="Wall of Roots"/>
+        <card number="2" name="Wilderness Reclamation"/>
+        <card number="2" name="Windswept Heath"/>
+        <card number="2" name="Marang River Regent // Coil and Catch"/>
+    </zone>
 </cockatrice_deck>

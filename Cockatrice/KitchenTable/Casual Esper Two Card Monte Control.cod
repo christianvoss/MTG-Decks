@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Esper Two Card Monte Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abeyance" number="4"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Dovin's Veto" number="2"/>
+    <card name="Duress" number="3"/>
+    <card name="Flooded Strand" number="3"/>
+    <card name="Flusterstorm" number="2"/>
+    <card name="Helm of Obedience" number="1"/>
+    <card name="Island" number="3"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Lavinia, Azorius Renegade" number="3"/>
+    <card name="Mana Drain" number="4"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Prairie Stream" number="4"/>
+    <card name="Rest in Peace" number="1"/>
+    <card name="Shark Typhoon" number="2"/>
+    <card name="Sunken Hollow" number="4"/>
+    <card name="Swords to Plowshares" number="4"/>
+    <card name="Teferi's Ageless Insight" number="2"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Waterbending Scroll" number="2"/>
+  </zone>
+</cockatrice_deck>

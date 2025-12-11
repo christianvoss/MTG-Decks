@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual UW Heroic - Book Bot</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Adarkar Wastes" number="3"/>
+    <card name="Akroan Skyguard" number="2"/>
+    <card name="Dauntless Onslaught" number="3"/>
+    <card name="Fabled Hero" number="2"/>
+    <card name="Favored Hoplite" number="4"/>
+    <card name="Ghostform" number="4"/>
+    <card name="Gods Willing" number="4"/>
+    <card name="Island" number="1"/>
+    <card name="Island" number="3"/>
+    <card name="Island" number="2"/>
+    <card name="Island" number="1"/>
+    <card name="Island" number="1"/>
+    <card name="Ordeal of Thassa" number="4"/>
+    <card name="Phalanx Leader" number="2"/>
+    <card name="Plains" number="4"/>
+    <card name="Plains" number="2"/>
+    <card name="Plains" number="1"/>
+    <card name="Plains" number="2"/>
+    <card name="Redeem" number="2"/>
+    <card name="Shimmering Wings" number="2"/>
+    <card name="Spectral Flight" number="3"/>
+    <card name="Towashi Guide-Bot" number="3"/>
+    <card name="Triton Fortune Hunter" number="2"/>
+    <card name="Wingsteed Rider" number="3"/>
+  </zone>
+</cockatrice_deck>
