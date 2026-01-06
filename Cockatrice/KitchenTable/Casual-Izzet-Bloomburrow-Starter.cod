@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Casual Izzet Bloomburrow Starter</deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Island" setShortName="BLB" collectorNumber="269" uuid="2a9db98e-9f1d-4139-95c5-49f9d17a2107"/>
+        <card number="3" name="Island" setShortName="BLB" collectorNumber="268" uuid="408eb23f-13fa-4f98-b316-18e3057f9136"/>
+        <card number="3" name="Island" setShortName="BLB" collectorNumber="267" uuid="f7b92adb-a384-4e03-8ba7-1e41b9fb2516"/>
+        <card number="2" name="Island" setShortName="BLB" collectorNumber="266" uuid="106a5332-0104-4ec9-9e1f-806381ae4cad"/>
+        <card number="3" name="Mountain" setShortName="BLB" collectorNumber="277" uuid="8a38bea4-2d1b-442b-aad5-ab1a0ae67aac"/>
+        <card number="3" name="Mountain" setShortName="BLB" collectorNumber="276" uuid="0b384d24-8771-4860-8fc1-1b74217f1c4c"/>
+        <card number="3" name="Mountain" setShortName="BLB" collectorNumber="275" uuid="02244055-cbeb-4074-9482-42ec20721312"/>
+        <card number="3" name="Mountain" setShortName="BLB" collectorNumber="274" uuid="c1bba8fb-d763-4efa-8db1-e5e81994b5f9"/>
+        <card number="4" name="Swiftwater Cliffs" setShortName="KTK" collectorNumber="243" uuid="e782d005-a563-4738-978a-73a3465de78f"/>
+        <card number="1" name="Sword of Vengeance" setShortName="M11" collectorNumber="216" uuid="96fc0138-46fc-493c-8a28-8630c4759193"/>
+        <card number="3" name="Flame Lash" setShortName="KLD" collectorNumber="266" uuid="ac44e3cb-cc69-4222-87bc-ffa54b7ab34a"/>
+        <card number="2" name="Charmed Sleep" setShortName="ELD" collectorNumber="40" uuid="f1f97d9e-650b-4b69-8733-d80c8e0f723f"/>
+        <card number="3" name="Alania's Pathmaker" setShortName="BLB" collectorNumber="123" uuid="d3871fe6-e26e-4ab4-bd81-7e3c7b8135c1"/>
+        <card number="2" name="Stormcatch Mentor" setShortName="BLB" collectorNumber="234" uuid="99754055-6d67-4fde-aff3-41f6af6ea764"/>
+        <card number="2" name="Quaketusk Boar" setShortName="BLB" collectorNumber="146" uuid="2f2b7fd3-a139-49ea-8a89-b64261e868ef"/>
+        <card number="3" name="Bellowing Crier" setShortName="BLB" collectorNumber="42" uuid="ca2215dd-6300-49cf-b9b2-3a840b786c31"/>
+        <card number="3" name="Waterspout Warden" setShortName="BLB" collectorNumber="80" uuid="35898b39-98e2-405b-8f18-0e054bd2c29e"/>
+        <card number="3" name="Pearl of Wisdom" setShortName="BLB" collectorNumber="64" uuid="13cb9575-1138-4f99-8e90-0eaf00bdf4a1"/>
+        <card number="1" name="Alania, Divergent Storm" setShortName="PBLB" collectorNumber="204p" uuid="b05698b0-a6ee-4232-a635-5988aab62892"/>
+        <card number="2" name="Coruscation Mage" setShortName="BLB" collectorNumber="131" uuid="dc2c1de0-6233-469a-be72-a050b97d2c8f"/>
+        <card number="2" name="Rabid Gnaw" setShortName="BLB" collectorNumber="147" uuid="2f815bae-820a-49f6-8eed-46f658e7b6ff"/>
+        <card number="1" name="Mockingbird" setShortName="PBLB" collectorNumber="61p" uuid="230b5899-460d-4506-b22d-9bb879e4437f"/>
+        <card number="1" name="Bria, Riptide Rogue" setShortName="BLB" collectorNumber="379" uuid="390c96b3-68da-4a42-89ab-d9ccc79ce0dd"/>
+        <card number="3" name="Thieving Otter" setShortName="IKO" collectorNumber="69" uuid="07f84b0a-37d9-4b0f-8d75-1fab45a12d44"/>
+        <card number="1" name="Mind Spring" setShortName="MOR" collectorNumber="41" uuid="7b7cd9b6-1ea8-423d-8aa0-8699fffbcf50"/>
+    </zone>
+</cockatrice_deck>
