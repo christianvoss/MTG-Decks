@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Casual Mono Black Enchantment Damage</deckname>
+    <bannerCard providerId="2c2ee817-9ca9-4f09-bc71-7994c19a9470">Hopeless Nightmare</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="24" name="Swamp" setShortName="LEB" collectorNumber="296" uuid="a3544148-49b2-4320-8e3a-5bab81e0f7fd"/>
+        <card number="1" name="Pilfering Imp" setShortName="GRN" collectorNumber="81" uuid="646dedff-150c-4ed2-8f2e-3b2e6ba5521a"/>
+        <card number="1" name="Appendage Amalgam" setShortName="DSK" collectorNumber="83" uuid="d16b3cf3-7b85-4153-b25a-e6b5fce725cf"/>
+        <card number="1" name="Mintstrosity" setShortName="WOE" collectorNumber="100" uuid="d902f154-6fe8-4b97-aa67-4d4696abf887"/>
+        <card number="1" name="Annihilating Glare" setShortName="ONE" collectorNumber="80" uuid="be5d0b95-ec12-4e8e-99a0-7aca457f9107"/>
+        <card number="1" name="Witch's Cottage" setShortName="ELD" collectorNumber="249" uuid="b87891cd-b457-4dff-8d18-a7eaf6748fc6"/>
+        <card number="3" name="Warehouse Tabby" setShortName="WOE" collectorNumber="117" uuid="d500ad81-9659-4a00-8f99-8be7c23587e8"/>
+        <card number="1" name="Enduring Tenacity" setShortName="PDSK" collectorNumber="95p" uuid="9151a1c0-5c2c-4224-9f29-b0f90e589245"/>
+        <card number="2" name="Ashiok, Wicked Manipulator" setShortName="PWOE" collectorNumber="78p" uuid="42661b1c-3078-4a59-857f-170840e09b11"/>
+        <card number="1" name="Fear of Lost Teeth" setShortName="DSK" collectorNumber="97" uuid="259045fe-f349-4be1-bf29-465d084ed35e"/>
+        <card number="1" name="Lord Skitter's Butcher" setShortName="WOE" collectorNumber="99" uuid="21b31d2b-ef66-4e16-a75e-4e27eb5ebfe9"/>
+        <card number="1" name="Vampiric Rites" setShortName="BFZ" collectorNumber="124" uuid="3416309a-5824-48f5-876e-00e0f180acf9"/>
+        <card number="3" name="Hopeless Nightmare" setShortName="WOE" collectorNumber="95" uuid="2c2ee817-9ca9-4f09-bc71-7994c19a9470"/>
+        <card number="1" name="Cauldron Familiar" setShortName="ELD" collectorNumber="81" uuid="9a539a23-8383-4525-82dd-acfe1d219fe9"/>
+        <card number="1" name="Revenge of Ravens" setShortName="ELD" collectorNumber="104" uuid="3474289a-193e-452d-b248-e53ee99e22c0"/>
+        <card number="1" name="Oversold Cemetery" setShortName="WOT" collectorNumber="33" uuid="48a6cfd3-20bb-431b-b3f5-bb32a26e5002"/>
+        <card number="1" name="Vicious Rumors" setShortName="GRN" collectorNumber="89" uuid="b1939952-608e-4786-beeb-a6ff0fa36624"/>
+        <card number="1" name="Tempting Witch" setShortName="ELD" collectorNumber="108" uuid="8b217e5a-3c18-48b4-8124-b8c4fd7b2df1"/>
+        <card number="1" name="Sugar Rush" setShortName="WOE" collectorNumber="110" uuid="a638c9ba-45d6-4b50-a8ab-ef580a0a5d8e"/>
+        <card number="1" name="Reave Soul" setShortName="ELD" collectorNumber="103" uuid="ce7ff657-aa44-4336-895a-87518159cef6"/>
+        <card number="1" name="Bake into a Pie" setShortName="ELD" collectorNumber="76" uuid="42a4d090-1bb7-4334-ab22-e2527391e79b"/>
+        <card number="2" name="High Fae Negotiator" setShortName="WOE" collectorNumber="94" uuid="f0fc77e7-154d-4433-93b3-1a1dee34791b"/>
+        <card number="1" name="Epic Downfall" setShortName="ELD" collectorNumber="85" uuid="63da83fe-fa59-40cb-a42e-e1b14b650bc8"/>
+        <card number="1" name="Vraska's Fall" setShortName="ONE" collectorNumber="116" uuid="0173b7b4-2832-4943-ba45-8ba498d7a056"/>
+        <card number="1" name="Wicked Visitor" setShortName="WOE" collectorNumber="118" uuid="e26ec4b8-0012-48c4-9ccb-0f062df0c250"/>
+        <card number="1" name="Creeping Chill" setShortName="GRN" collectorNumber="66" uuid="f5456173-7a08-4b5c-8450-7123375f4a86"/>
+        <card number="1" name="Final Vengeance" setShortName="DSK" collectorNumber="99" uuid="648da934-71f6-4945-a08f-09698414417b"/>
+        <card number="1" name="Never Happened" setShortName="GRN" collectorNumber="80" uuid="289d3746-9e54-4983-9daa-f1a7afbdedad"/>
+        <card number="1" name="Balemurk Leech" setShortName="DSK" collectorNumber="84" uuid="f0621b32-95c5-4f70-96cf-d46d20efc85d"/>
+        <card number="1" name="Grievous Wound" setShortName="PDSK" collectorNumber="102p" uuid="3e632cbd-4c94-47b3-a42f-73f39fcdaf0d"/>
+        <card number="1" name="Eriette's Whisper" setShortName="WOE" collectorNumber="88" uuid="dfed2acf-9ac8-447b-94f5-7db3a713c991"/>
+    </zone>
+</cockatrice_deck>
