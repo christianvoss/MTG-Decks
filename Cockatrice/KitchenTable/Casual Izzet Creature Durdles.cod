@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Izzet Creature Durdles</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Brainstorm" number="4"/>
+    <card name="Containment Construct" number="3"/>
+    <card name="Counterspell" number="3"/>
+    <card name="Dack Fayden" number="2"/>
+    <card name="Electrostatic Field" number="2"/>
+    <card name="Expressive Iteration" number="3"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Frantic Search" number="4"/>
+    <card name="Haughty Djinn" number="3"/>
+    <card name="High Tide" number="2"/>
+    <card name="Island" number="4"/>
+    <card name="Kindle" number="4"/>
+    <card name="Mystic Sanctuary" number="3"/>
+    <card name="Narset's Reversal" number="2"/>
+    <card name="Negate" number="3"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Steam Vents" number="4"/>
+    <card name="Treasure Cruise" number="3"/>
+    <card name="Wee Dragonauts" number="3"/>
+  </zone>
+</cockatrice_deck>

@@ -1,29 +1,32 @@
-<?xml version="1.0" ?>
-<cockatrice_deck>
-  <deckname>Casual BUG Lesson Earthbend Control</deckname>
-  <comments>Converted from Forge</comments>
-  <zone name="main">
-    <card name="Accumulate Wisdom" number="4"/>
-    <card name="Ba Sing Se" number="3"/>
-    <card name="Breeding Pool" number="2"/>
-    <card name="Dai Li Indoctrination" number="4"/>
-    <card name="Earthbending Lesson" number="3"/>
-    <card name="Island" number="1"/>
-    <card name="Jace, the Mind Sculptor" number="2"/>
-    <card name="Maelstrom Pulse" number="2"/>
-    <card name="Mana Drain" number="4"/>
-    <card name="Misty Rainforest" number="3"/>
-    <card name="Mystic Sanctuary" number="2"/>
-    <card name="Origin of Metalbending" number="2"/>
-    <card name="Ozai's Cruelty" number="2"/>
-    <card name="Planar Genesis" number="4"/>
-    <card name="Polluted Delta" number="4"/>
-    <card name="Power Word Kill" number="4"/>
-    <card name="Serpent of the Pass" number="3"/>
-    <card name="Spirit Water Revival" number="1"/>
-    <card name="Terrasymbiosis" number="3"/>
-    <card name="Watery Grave" number="3"/>
-    <card name="Wilderness Reclamation" number="2"/>
-    <card name="Zagoth Triome" number="2"/>
-  </zone>
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Wed Jan 7 19:40:46 2026</lastLoadedTimestamp>
+    <deckname>Casual BUG Lesson Earthbend Control</deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Converted from Forge</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Accumulate Wisdom"/>
+        <card number="3" name="Ba Sing Se"/>
+        <card number="2" name="Breeding Pool"/>
+        <card number="4" name="Dai Li Indoctrination"/>
+        <card number="3" name="Earthbending Lesson"/>
+        <card number="1" name="Island"/>
+        <card number="2" name="Jace, the Mind Sculptor"/>
+        <card number="2" name="Maelstrom Pulse"/>
+        <card number="4" name="Mana Drain"/>
+        <card number="3" name="Misty Rainforest"/>
+        <card number="2" name="Mystic Sanctuary"/>
+        <card number="2" name="Origin of Metalbending"/>
+        <card number="2" name="Ozai's Cruelty"/>
+        <card number="4" name="Planar Genesis"/>
+        <card number="4" name="Polluted Delta"/>
+        <card number="4" name="Power Word Kill"/>
+        <card number="3" name="Serpent of the Pass"/>
+        <card number="1" name="Spirit Water Revival"/>
+        <card number="3" name="Terrasymbiosis"/>
+        <card number="3" name="Watery Grave"/>
+        <card number="2" name="Wilderness Reclamation"/>
+        <card number="2" name="Zagoth Triome"/>
+    </zone>
 </cockatrice_deck>

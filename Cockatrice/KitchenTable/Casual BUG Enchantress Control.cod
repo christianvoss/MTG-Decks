@@ -3,24 +3,26 @@
   <deckname>Casual BUG Enchantress Control</deckname>
   <comments>Converted from Forge</comments>
   <zone name="main">
-    <card name="Abundant Growth" number="3"/>
     <card name="Argothian Enchantress" number="2"/>
+    <card name="Awaken the Honored Dead" number="2"/>
     <card name="Breeding Pool" number="2"/>
-    <card name="Canker Abomination" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Earthcraft" number="2"/>
     <card name="Flooded Strand" number="4"/>
-    <card name="Hidden Gibbons" number="4"/>
+    <card name="Gift of Compleation" number="2"/>
     <card name="Hopeless Nightmare" number="4"/>
     <card name="Island" number="4"/>
-    <card name="Jace, the Mind Sculptor" number="2"/>
-    <card name="Mana Drain" number="4"/>
     <card name="Momentum Breaker" number="4"/>
-    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Omen of the Sea" number="3"/>
     <card name="Polluted Delta" number="4"/>
     <card name="Power Word Kill" number="3"/>
+    <card name="Rimewood Falls" number="1"/>
     <card name="Riptide Chimera" number="4"/>
-    <card name="Roiling Dragonstorm" number="4"/>
-    <card name="Sunken Hollow" number="4"/>
-    <card name="Verduran Enchantress" number="2"/>
-    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Roiling Dragonstorm" number="2"/>
+    <card name="Squirrel Nest" number="2"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Thirst for Meaning" number="3"/>
+    <card name="Verduran Enchantress" number="3"/>
+    <card name="Zagoth Triome" number="2"/>
   </zone>
 </cockatrice_deck>
