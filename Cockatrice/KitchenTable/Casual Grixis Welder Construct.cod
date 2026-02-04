@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Grixis Welder Construct</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Containment Construct" number="3"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Dack Fayden" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Goblin Welder" number="3"/>
+    <card name="Kess, Dissident Mage" number="2"/>
+    <card name="Lightning Bolt" number="2"/>
+    <card name="Mindslaver" number="2"/>
+    <card name="Mox Diamond" number="2"/>
+    <card name="Myr Battlesphere" number="1"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Mystical Tutor" number="1"/>
+    <card name="Pentavus" number="1"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Scalding Tarn" number="4"/>
+    <card name="Seat of the Synod" number="4"/>
+    <card name="Steam Vents" number="3"/>
+    <card name="Steel Hellkite" number="2"/>
+    <card name="Terminate" number="3"/>
+    <card name="Thirst for Knowledge" number="4"/>
+    <card name="Tinker" number="1"/>
+    <card name="Treasure Cruise" number="1"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Watery Grave" number="3"/>
+  </zone>
+</cockatrice_deck>

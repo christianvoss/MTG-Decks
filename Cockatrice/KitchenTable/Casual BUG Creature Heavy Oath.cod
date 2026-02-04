@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Creature Heavy Oath</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Aetherling" number="3"/>
+    <card name="Brainstorm" number="1"/>
+    <card name="Breeding Pool" number="3"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Dig Through Time" number="1"/>
+    <card name="Dispel" number="2"/>
+    <card name="Dowsing Dagger" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Gaea's Blessing" number="3"/>
+    <card name="Island" number="4"/>
+    <card name="Jace, the Mind Sculptor" number="2"/>
+    <card name="Lat-Nam's Legacy" number="2"/>
+    <card name="Maelstrom Pulse" number="2"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Oath of Druids" number="3"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="3"/>
+    <card name="Power Word Kill" number="4"/>
+    <card name="Sunken Hollow" number="3"/>
+    <card name="Titanoth Rex" number="2"/>
+    <card name="Treasure Cruise" number="1"/>
+    <card name="Void Beckoner" number="2"/>
+    <card name="Waterbending Scroll" number="3"/>
+  </zone>
+</cockatrice_deck>
