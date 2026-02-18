@@ -13,7 +13,7 @@
     <card name="Hallowed Fountain" number="2"/>
     <card name="Island" number="3"/>
     <card name="Mystic Sanctuary" number="2"/>
-    <card name="Planar Genesis" number="4"/>
+    <card name="Planar Genesis" number="3"/>
     <card name="Polluted Delta" number="4"/>
     <card name="Prairie Stream" number="2"/>
     <card name="Runechanter's Pike" number="2"/>
@@ -21,7 +21,8 @@
     <card name="Stock Up" number="3"/>
     <card name="Swords to Plowshares" number="4"/>
     <card name="Thing in the Ice" number="4"/>
+    <card name="Waterbending Scroll" number="2"/>
     <card name="Wilderness Reclamation" number="2"/>
-    <card name="Wrath of God" number="3"/>
+    <card name="Wrath of God" number="2"/>
   </zone>
 </cockatrice_deck>
