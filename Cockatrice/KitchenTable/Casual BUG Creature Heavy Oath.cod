@@ -1,30 +1,33 @@
-<?xml version="1.0" ?>
-<cockatrice_deck>
-  <deckname>Casual BUG Creature Heavy Oath</deckname>
-  <comments>Converted from Forge</comments>
-  <zone name="main">
-    <card name="Aetherling" number="3"/>
-    <card name="Brainstorm" number="1"/>
-    <card name="Breeding Pool" number="3"/>
-    <card name="Counterspell" number="4"/>
-    <card name="Dig Through Time" number="1"/>
-    <card name="Dispel" number="2"/>
-    <card name="Dowsing Dagger" number="2"/>
-    <card name="Flooded Strand" number="4"/>
-    <card name="Gaea's Blessing" number="3"/>
-    <card name="Island" number="4"/>
-    <card name="Jace, the Mind Sculptor" number="2"/>
-    <card name="Lat-Nam's Legacy" number="2"/>
-    <card name="Maelstrom Pulse" number="2"/>
-    <card name="Mystic Sanctuary" number="2"/>
-    <card name="Oath of Druids" number="3"/>
-    <card name="Polluted Delta" number="4"/>
-    <card name="Ponder" number="3"/>
-    <card name="Power Word Kill" number="4"/>
-    <card name="Sunken Hollow" number="3"/>
-    <card name="Titanoth Rex" number="2"/>
-    <card name="Treasure Cruise" number="1"/>
-    <card name="Void Beckoner" number="2"/>
-    <card name="Waterbending Scroll" number="3"/>
-  </zone>
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Wed Feb 4 20:24:32 2026</lastLoadedTimestamp>
+    <deckname>Casual BUG Creature Heavy Oath</deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Converted from Forge</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Aetherling"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="3" name="Breeding Pool"/>
+        <card number="4" name="Counterspell"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="2" name="Dispel"/>
+        <card number="2" name="Dowsing Dagger"/>
+        <card number="4" name="Flooded Strand"/>
+        <card number="3" name="Gaea's Blessing"/>
+        <card number="4" name="Island"/>
+        <card number="2" name="Jace, the Mind Sculptor"/>
+        <card number="2" name="Lat-Nam's Legacy"/>
+        <card number="2" name="Maelstrom Pulse"/>
+        <card number="2" name="Mystic Sanctuary"/>
+        <card number="3" name="Oath of Druids"/>
+        <card number="4" name="Polluted Delta"/>
+        <card number="3" name="Ponder"/>
+        <card number="4" name="Power Word Kill"/>
+        <card number="3" name="Sunken Hollow"/>
+        <card number="2" name="Titanoth Rex"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="2" name="Void Beckoner"/>
+        <card number="3" name="Waterbending Scroll"/>
+    </zone>
 </cockatrice_deck>

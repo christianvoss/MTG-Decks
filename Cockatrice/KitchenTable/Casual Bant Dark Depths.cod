@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Bant Dark Depths</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Abundance" number="2"/>
+    <card name="Brainstorm" number="4"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Dark Depths" number="2"/>
+    <card name="Deprive" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Hallowed Fountain" number="4"/>
+    <card name="Impulse" number="2"/>
+    <card name="Island" number="2"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Regrowth" number="2"/>
+    <card name="Rimewood Falls" number="3"/>
+    <card name="Stock Up" number="4"/>
+    <card name="Swords to Plowshares" number="4"/>
+    <card name="Sylvan Library" number="2"/>
+    <card name="Thespian's Stage" number="2"/>
+    <card name="Thing in the Ice" number="4"/>
+    <card name="Waterbending Scroll" number="3"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Wrath of God" number="2"/>
+  </zone>
+</cockatrice_deck>

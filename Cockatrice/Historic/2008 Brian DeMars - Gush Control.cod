@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
+    <lastLoadedTimestamp>Wed Feb 11 20:49:45 2026</lastLoadedTimestamp>
     <deckname>2008 Brian DeMars - Gush Control</deckname>
+    <bannerCard providerId=""></bannerCard>
     <comments></comments>
+    <tags/>
     <zone name="main">
         <card number="4" name="Polluted Delta"/>
         <card number="4" name="Gush"/>

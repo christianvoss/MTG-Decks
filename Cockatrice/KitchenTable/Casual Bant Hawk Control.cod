@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual Bant Hawk Control</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Brainstorm" number="4"/>
+    <card name="Breeding Pool" number="3"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Dovin's Veto" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Gaea's Blessing" number="2"/>
+    <card name="Grafted Wargear" number="2"/>
+    <card name="Hallowed Fountain" number="2"/>
+    <card name="Island" number="3"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Planar Genesis" number="4"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Prairie Stream" number="2"/>
+    <card name="Runechanter's Pike" number="2"/>
+    <card name="Squadron Hawk" number="4"/>
+    <card name="Stock Up" number="3"/>
+    <card name="Swords to Plowshares" number="4"/>
+    <card name="Thing in the Ice" number="4"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Wrath of God" number="3"/>
+  </zone>
+</cockatrice_deck>
