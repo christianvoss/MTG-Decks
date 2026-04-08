@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Gush Tokens - 2</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Breeding Pool" number="2"/>
+    <card name="Cast Down" number="2"/>
+    <card name="Combine Chrysalis" number="2"/>
+    <card name="Contested Cliffs" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Courser of Kruphix" number="2"/>
+    <card name="Demonic Tutor" number="1"/>
+    <card name="Deprive" number="2"/>
+    <card name="Exploration" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Go for the Throat" number="2"/>
+    <card name="Goblinslide" number="2"/>
+    <card name="Gush" number="4"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Pactdoll Terror" number="2"/>
+    <card name="Planar Genesis" number="4"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="3"/>
+    <card name="Rise and Shine" number="1"/>
+    <card name="Snow-Covered Island" number="3"/>
+    <card name="Steam Vents" number="1"/>
+    <card name="Sunken Hollow" number="1"/>
+    <card name="Tireless Tracker" number="4"/>
+    <card name="Vampiric Tutor" number="1"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="1"/>
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<cockatrice_deck>
+  <deckname>Casual BUG Gush Tokens - 3</deckname>
+  <comments>Converted from Forge</comments>
+  <zone name="main">
+    <card name="Breeding Pool" number="2"/>
+    <card name="Cast Down" number="2"/>
+    <card name="Counterspell" number="4"/>
+    <card name="Deprive" number="2"/>
+    <card name="Exploration" number="2"/>
+    <card name="Flooded Strand" number="4"/>
+    <card name="Go for the Throat" number="2"/>
+    <card name="Gush" number="4"/>
+    <card name="Malboro" number="3"/>
+    <card name="Mystic Sanctuary" number="2"/>
+    <card name="Planar Genesis" number="4"/>
+    <card name="Polluted Delta" number="4"/>
+    <card name="Ponder" number="4"/>
+    <card name="Quest for the Necropolis" number="4"/>
+    <card name="Regrowth" number="2"/>
+    <card name="Snow-Covered Island" number="3"/>
+    <card name="Sunken Hollow" number="1"/>
+    <card name="Tireless Tracker" number="3"/>
+    <card name="Titanoth Rex" number="2"/>
+    <card name="Void Beckoner" number="2"/>
+    <card name="Wilderness Reclamation" number="2"/>
+    <card name="Zagoth Triome" number="1"/>
+    <card name="Zagoth Triome" number="1"/>
+  </zone>
+</cockatrice_deck>
